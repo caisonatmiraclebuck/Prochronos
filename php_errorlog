@@ -1,0 +1,4 @@
+[27-Jun-2017 05:19:17 CST6CDT] PHP Warning:  require(/home/prochronos/public_html/wp-includes/load.php): failed to open stream: No such file or directory in /home/prochronos/public_html/wp-settings.php on line 19
+[27-Jun-2017 05:19:17 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/prochronos/public_html/wp-includes/load.php' (include_path='.:/usr/local/php56/pear') in /home/prochronos/public_html/wp-settings.php on line 19
+[07-Jul-2017 09:52:52 Europe/Amsterdam] WordPress database error Table 'prochron_DB_32.wp52_core_log' doesn't exist for query INSERT INTO  wp52_core_log (`datetime` ,`userid` ,`postid` ,`link` ,`message`)
+VALUES ( NOW(),  '0',  '',  'label-info',  '{cron job} hourly event completed'); made by do_action_ref_array, WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wlt_hourly_event_hook_do, white_label_themes->ADDLOG

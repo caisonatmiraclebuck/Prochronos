@@ -1,0 +1,3828 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Responsive Directory Theme\n"
+"POT-Creation-Date: 2015-10-04 12:27+0800\n"
+"PO-Revision-Date: 2015-10-04 12:26+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comments.php:43
+#, php-format
+msgid "%s <span class=\"says\">"
+msgstr ""
+
+#: comments.php:68 comments.php:88
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:69 comments.php:89
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:70 comments.php:90
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:95 framework/_language.php:656
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:110 framework/_language.php:284 framework/_language.php:658
+msgid "Name"
+msgstr ""
+
+#: comments.php:116 framework/_language.php:285 framework/_language.php:539
+msgid "Email"
+msgstr ""
+
+#: comments.php:121 framework/_language.php:544 framework/_language.php:660
+msgid "Website"
+msgstr ""
+
+#: comments.php:136
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: framework/_language.php:9
+msgid "Add"
+msgstr ""
+
+#: framework/_language.php:10
+msgid "Edit"
+msgstr ""
+
+#: framework/_language.php:11
+msgid "Delete"
+msgstr ""
+
+#: framework/_language.php:12
+msgid "More Details"
+msgstr ""
+
+#: framework/_language.php:13 framework/_language.php:538
+msgid "Logout"
+msgstr ""
+
+#: framework/_language.php:14
+msgid "Save Changes"
+msgstr ""
+
+#: framework/_language.php:15
+msgid "Back"
+msgstr ""
+
+#: framework/_language.php:16 framework/_language.php:375
+msgid "Cancel"
+msgstr ""
+
+#: framework/_language.php:17 framework/_language.php:1050
+msgid "Reply"
+msgstr ""
+
+#: framework/_language.php:18 framework/_language.php:499
+msgid "Continue"
+msgstr ""
+
+#: framework/_language.php:19
+msgid "Search"
+msgstr ""
+
+#: framework/_language.php:20
+msgid "Visit Website"
+msgstr ""
+
+#: framework/_language.php:21 framework/_language.php:356
+msgid "More Info"
+msgstr ""
+
+#: framework/_language.php:22
+msgid "Contact Owner"
+msgstr ""
+
+#: framework/_language.php:23
+msgid "Share"
+msgstr ""
+
+#: framework/_language.php:24 framework/_language.php:229
+msgid "Login"
+msgstr ""
+
+#: framework/_language.php:25 framework/_language.php:420
+msgid "Free"
+msgstr ""
+
+#: framework/_language.php:26 framework/_language.php:27
+msgid "Pay Now"
+msgstr ""
+
+#: framework/_language.php:28
+msgid "Print"
+msgstr ""
+
+#: framework/_language.php:29
+msgid "Yes"
+msgstr ""
+
+#: framework/_language.php:30
+msgid "No"
+msgstr ""
+
+#: framework/_language.php:31
+msgid "Page"
+msgstr ""
+
+#: framework/_language.php:32 framework/_language.php:357
+#: framework/_language.php:764
+msgid "Subscribe"
+msgstr ""
+
+#: framework/_language.php:33
+msgid "example@hotmail.com"
+msgstr ""
+
+#: framework/_language.php:34
+msgid "Submit Listing"
+msgstr ""
+
+#: framework/_language.php:35
+msgid "--- all departments ---"
+msgstr ""
+
+#: framework/_language.php:36
+msgid "Add Favorites"
+msgstr ""
+
+#: framework/_language.php:37 framework/_language.php:583
+msgid "Remove Favorites"
+msgstr ""
+
+#: framework/_language.php:38
+msgid "Get Code"
+msgstr ""
+
+#: framework/_language.php:39 framework/_language.php:133
+#: framework/_language.php:545
+msgid "View All Listings"
+msgstr ""
+
+#: framework/_language.php:40
+msgid "in"
+msgstr ""
+
+#: framework/_language.php:41
+msgid "within"
+msgstr ""
+
+#: framework/_language.php:42
+msgid "distance"
+msgstr ""
+
+#: framework/_language.php:43
+msgid "Zip/Postal Code"
+msgstr ""
+
+#: framework/_language.php:44
+msgid "Read More"
+msgstr ""
+
+#: framework/_language.php:45
+msgid "Printable"
+msgstr ""
+
+#: framework/_language.php:46
+msgid "ToolBox"
+msgstr ""
+
+#: framework/_language.php:47
+msgid "Compare"
+msgstr ""
+
+#: framework/_language.php:48
+msgid "--- all categories ---"
+msgstr ""
+
+#: framework/_language.php:49
+msgid "--- all position types ---"
+msgstr ""
+
+#: framework/_language.php:50
+msgid "--- all locations ---"
+msgstr ""
+
+#: framework/_language.php:51
+msgid "Vote Up"
+msgstr ""
+
+#: framework/_language.php:52
+msgid "Vote Down"
+msgstr ""
+
+#: framework/_language.php:53
+msgid "Store"
+msgstr ""
+
+#: framework/_language.php:54
+msgid "List"
+msgstr ""
+
+#: framework/_language.php:55
+msgid "Grid"
+msgstr ""
+
+#: framework/_language.php:56
+msgid "Map"
+msgstr ""
+
+#: framework/_language.php:57
+msgid "Report"
+msgstr ""
+
+#: framework/_language.php:58 framework/_language.php:351
+msgid "Featured"
+msgstr ""
+
+#: framework/_language.php:59
+msgid "Blog"
+msgstr ""
+
+#: framework/_language.php:60
+msgid "Open in Google Maps"
+msgstr ""
+
+#: framework/_language.php:61
+msgid "View on Map"
+msgstr ""
+
+#: framework/_language.php:62
+msgid "Caption"
+msgstr ""
+
+#: framework/_language.php:63
+msgid "Members Area"
+msgstr ""
+
+#: framework/_language.php:64
+msgid "Search Website"
+msgstr ""
+
+#: framework/_language.php:69
+msgid "Day"
+msgstr ""
+
+#: framework/_language.php:70
+msgid "Days"
+msgstr ""
+
+#: framework/_language.php:71
+msgid "second"
+msgstr ""
+
+#: framework/_language.php:72
+msgid "minute"
+msgstr ""
+
+#: framework/_language.php:73
+msgid "hour"
+msgstr ""
+
+#: framework/_language.php:74
+msgid "day"
+msgstr ""
+
+#: framework/_language.php:75
+msgid "week"
+msgstr ""
+
+#: framework/_language.php:76
+msgid "month"
+msgstr ""
+
+#: framework/_language.php:77
+msgid "year"
+msgstr ""
+
+#: framework/_language.php:78
+msgid "decade"
+msgstr ""
+
+#: framework/_language.php:79
+msgid "seconds"
+msgstr ""
+
+#: framework/_language.php:80
+msgid "minutes"
+msgstr ""
+
+#: framework/_language.php:81
+msgid "hours"
+msgstr ""
+
+#: framework/_language.php:82
+msgid "days"
+msgstr ""
+
+#: framework/_language.php:83
+msgid "weeks"
+msgstr ""
+
+#: framework/_language.php:84
+msgid "months"
+msgstr ""
+
+#: framework/_language.php:85
+msgid "years"
+msgstr ""
+
+#: framework/_language.php:86
+msgid "decades"
+msgstr ""
+
+#: framework/_language.php:87
+msgid "Bad date"
+msgstr ""
+
+#: framework/_language.php:91
+msgid "Please complete all fields."
+msgstr ""
+
+#: framework/_language.php:92
+msgid "Please enter your first name."
+msgstr ""
+
+#: framework/_language.php:93
+msgid "Please enter your last name."
+msgstr ""
+
+#: framework/_language.php:94
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: framework/_language.php:95
+msgid "Your passwords do not match. Please check and try again."
+msgstr ""
+
+#: framework/_language.php:96
+msgid "Are you sure you want to do this?"
+msgstr ""
+
+#: framework/_language.php:97
+msgid "What is the sum of %a + %b ?"
+msgstr ""
+
+#: framework/_language.php:98
+msgid "Please enter a title for your item."
+msgstr ""
+
+#: framework/_language.php:99
+msgid "Please enter a search description for your item."
+msgstr ""
+
+#: framework/_language.php:100
+msgid "Please enter a few tags/keywords for your item."
+msgstr ""
+
+#: framework/_language.php:101
+msgid "Only JPG, PNG, GIF, PDF or FLV (video) files are allowed."
+msgstr ""
+
+#: framework/_language.php:102
+msgid "Uploading.."
+msgstr ""
+
+#: framework/_language.php:103
+msgid "File type not supported."
+msgstr ""
+
+#: framework/_language.php:104
+msgid "Invalid file"
+msgstr ""
+
+#: framework/_language.php:105
+msgid "The upload directory is not writ able. Please contact the admin."
+msgstr ""
+
+#: framework/_language.php:106
+msgid "has been added to your list."
+msgstr ""
+
+#: framework/_language.php:107
+msgid "Click Here to view your list."
+msgstr ""
+
+#: framework/_language.php:108
+msgid "is already on your list."
+msgstr ""
+
+#: framework/_language.php:109
+msgid "item removed"
+msgstr ""
+
+#: framework/_language.php:110
+msgid "Please enter a username."
+msgstr ""
+
+#: framework/_language.php:111
+msgid "Please enter a password."
+msgstr ""
+
+#: framework/_language.php:112
+msgid "Please select a package to continue."
+msgstr ""
+
+#: framework/_language.php:113
+msgid "You have entered and invalid email address"
+msgstr ""
+
+#: framework/_language.php:114
+msgid "A confirmation email has been sent"
+msgstr ""
+
+#: framework/_language.php:115
+msgid "<b>Members Only</b> Please login to use this feature."
+msgstr ""
+
+#: framework/_language.php:116
+msgid "0 results found"
+msgstr ""
+
+#: framework/_language.php:117
+msgid "Please upload a display image."
+msgstr ""
+
+#: framework/_language.php:118
+msgid "Please add more content to your listing description."
+msgstr ""
+
+#: framework/_language.php:119
+msgid "Please select a category."
+msgstr ""
+
+#: framework/_language.php:120
+msgid "Removed From Favorites"
+msgstr ""
+
+#: framework/_language.php:121
+msgid "Added To Favorites"
+msgstr ""
+
+#: framework/_language.php:122
+msgid "<b>Listing Removed</b> This item has been removed from your list."
+msgstr ""
+
+#: framework/_language.php:123
+msgid "<b>Listing Added</b> This item has been added to your list."
+msgstr ""
+
+#: framework/_language.php:124
+msgid "<b>User Block Removed</b> This user has been removed from your list."
+msgstr ""
+
+#: framework/_language.php:125
+msgid "<b>User Block Added</b> This user has been added to your list."
+msgstr ""
+
+#: framework/_language.php:126
+msgid "<b>Friend Removed</b> This user has been removed from your list."
+msgstr ""
+
+#: framework/_language.php:127
+msgid "<b>Friend Added</b> This user has been added to your list."
+msgstr ""
+
+#: framework/_language.php:132
+msgid "This user has published %a listings."
+msgstr ""
+
+#: framework/_language.php:134
+msgid "Full-time"
+msgstr ""
+
+#: framework/_language.php:135
+msgid "Part-time"
+msgstr ""
+
+#: framework/_language.php:136
+msgid "Contract"
+msgstr ""
+
+#: framework/_language.php:137
+msgid "Internship"
+msgstr ""
+
+#: framework/_language.php:138
+msgid "Temporary"
+msgstr ""
+
+#: framework/_language.php:139
+msgid "Position Type"
+msgstr ""
+
+#: framework/_language.php:140
+msgid "Payment Type"
+msgstr ""
+
+#: framework/_language.php:141 framework/_language.php:222
+msgid "Amount"
+msgstr ""
+
+#: framework/_language.php:142
+msgid "Add New Job"
+msgstr ""
+
+#: framework/_language.php:143
+msgid "View All job Listings"
+msgstr ""
+
+#: framework/_language.php:144
+msgid "Project ID"
+msgstr ""
+
+#: framework/_language.php:145
+msgid "Posted"
+msgstr ""
+
+#: framework/_language.php:146
+msgid ""
+"Please confirm you want to accept this users proposal. All other proposals "
+"will be declined and new bidding disabled."
+msgstr ""
+
+#: framework/_language.php:147
+msgid "Hourly Rate"
+msgstr ""
+
+#: framework/_language.php:148
+msgid "Budget Amount"
+msgstr ""
+
+#: framework/_language.php:149
+msgid "Fixed Salary (monthly)"
+msgstr ""
+
+#: framework/_language.php:150
+msgid "Fixed Salary (annually)"
+msgstr ""
+
+#: framework/_language.php:151
+msgid "Author"
+msgstr ""
+
+#: framework/_language.php:152
+msgid "Negotiable"
+msgstr ""
+
+#: framework/_language.php:153
+msgid "If the amount is negotiable enter the value 0"
+msgstr ""
+
+#: framework/_language.php:154
+msgid "Display Type"
+msgstr ""
+
+#: framework/_language.php:155
+msgid "Members bid online"
+msgstr ""
+
+#: framework/_language.php:156
+msgid "Members apply via email"
+msgstr ""
+
+#: framework/_language.php:157
+msgid "Explain why you should be selected for this job below;"
+msgstr ""
+
+#: framework/_language.php:158
+msgid ""
+"Enter the amount of monies your willing to accept to complete this work."
+msgstr ""
+
+#: framework/_language.php:159
+msgid "Submit Proposal"
+msgstr ""
+
+#: framework/_language.php:160
+msgid "Please enter a few comments about your proposal."
+msgstr ""
+
+#: framework/_language.php:161
+msgid "Accept Proposal"
+msgstr ""
+
+#: framework/_language.php:162
+msgid "says"
+msgstr ""
+
+#: framework/_language.php:163
+msgid "said on"
+msgstr ""
+
+#: framework/_language.php:164
+msgid "File Removed Successfully."
+msgstr ""
+
+#: framework/_language.php:165
+msgid "Upload Curriculum Vitae (CV) or Resume."
+msgstr ""
+
+#: framework/_language.php:166
+msgid "You do not have permission to access this file."
+msgstr ""
+
+#: framework/_language.php:167
+msgid "Apply for Job"
+msgstr ""
+
+#: framework/_language.php:168
+msgid "Submit Application"
+msgstr ""
+
+#: framework/_language.php:169
+msgid ""
+"Upload your CV (Curriculum Vitae) via the members area and it can be "
+"attached to this application."
+msgstr ""
+
+#: framework/_language.php:170
+msgid "Login to Apply Online"
+msgstr ""
+
+#: framework/_language.php:174
+msgid "%a days access"
+msgstr ""
+
+#: framework/_language.php:175
+msgid "search radius"
+msgstr ""
+
+#: framework/_language.php:176
+msgid "auto"
+msgstr ""
+
+#: framework/_language.php:177
+msgid "mile"
+msgstr ""
+
+#: framework/_language.php:178
+msgid "miles"
+msgstr ""
+
+#: framework/_language.php:179
+msgid "mile radius"
+msgstr ""
+
+#: framework/_language.php:180
+msgid "Other posts by this author"
+msgstr ""
+
+#: framework/_language.php:181
+msgid "Change Location"
+msgstr ""
+
+#: framework/_language.php:182
+msgid "Where are you now?"
+msgstr ""
+
+#: framework/_language.php:183
+msgid ""
+"Set your location by clicking on the map below or typing in your address "
+"below."
+msgstr ""
+
+#: framework/_language.php:184
+msgid "Update My Location"
+msgstr ""
+
+#: framework/_language.php:185
+msgid "distance:"
+msgstr ""
+
+#: framework/_language.php:186
+msgid "Kilometers"
+msgstr ""
+
+#: framework/_language.php:187
+msgid "Nautical Miles"
+msgstr ""
+
+#: framework/_language.php:188 framework/_language.php:925
+msgid "Miles"
+msgstr ""
+
+#: framework/_language.php:189
+msgid "My Location"
+msgstr ""
+
+#: framework/_language.php:190
+msgid "hide all markers"
+msgstr ""
+
+#: framework/_language.php:191
+msgid "show/hide"
+msgstr ""
+
+#: framework/_language.php:192
+msgid "GO"
+msgstr ""
+
+#: framework/_language.php:193
+msgid "Email Author"
+msgstr ""
+
+#: framework/_language.php:194 framework/_language.php:265
+#: framework/_language.php:560 framework/_language.php:565
+msgid "Send Message"
+msgstr ""
+
+#: framework/_language.php:195
+msgid "Add To Friends"
+msgstr ""
+
+#: framework/_language.php:196
+msgid "Add To Blocked List"
+msgstr ""
+
+#: framework/_language.php:197
+msgid "View Profile"
+msgstr ""
+
+#: framework/_language.php:198
+msgid "%a ago."
+msgstr ""
+
+#: framework/_language.php:199
+msgid "Last online"
+msgstr ""
+
+#: framework/_language.php:200
+msgid "to"
+msgstr ""
+
+#: framework/_language.php:201
+msgid "Filter by Rating "
+msgstr ""
+
+#: framework/_language.php:202
+msgid "Stars"
+msgstr ""
+
+#: framework/_language.php:203
+msgid "Have a question?"
+msgstr ""
+
+#: framework/_language.php:204 framework/_language.php:1073
+msgid "review"
+msgstr ""
+
+#: framework/_language.php:205
+msgid "reviews"
+msgstr ""
+
+#: framework/_language.php:206
+msgid "vote"
+msgstr ""
+
+#: framework/_language.php:207 framework/_language.php:770
+msgid "votes"
+msgstr ""
+
+#: framework/_language.php:208
+msgid "Join Now"
+msgstr ""
+
+#: framework/_language.php:213
+msgid "Paid"
+msgstr ""
+
+#: framework/_language.php:214
+msgid "Refunded"
+msgstr ""
+
+#: framework/_language.php:215
+msgid "Incomplete"
+msgstr ""
+
+#: framework/_language.php:216
+msgid "Failed"
+msgstr ""
+
+#: framework/_language.php:217
+msgid "Paid &amp; Complete"
+msgstr ""
+
+#: framework/_language.php:218 framework/_language.php:624
+#: framework/_language.php:626
+msgid "My Orders"
+msgstr ""
+
+#: framework/_language.php:219
+msgid "Order ID"
+msgstr ""
+
+#: framework/_language.php:220 framework/_language.php:325
+#: framework/_language.php:326 framework/_language.php:568
+#: framework/_language.php:737
+msgid "Date"
+msgstr ""
+
+#: framework/_language.php:221 framework/_language.php:566
+#: framework/_language.php:941 framework/_language.php:980
+msgid "Status"
+msgstr ""
+
+#: framework/_language.php:226
+msgid "Home"
+msgstr ""
+
+#: framework/_language.php:227
+msgid "Advanced Search"
+msgstr ""
+
+#: framework/_language.php:228
+msgid "Dashboard"
+msgstr ""
+
+#: framework/_language.php:230
+msgid "Register"
+msgstr ""
+
+#: framework/_language.php:231
+msgid "Quick Search"
+msgstr ""
+
+#: framework/_language.php:232
+msgid "Notifications"
+msgstr ""
+
+#: framework/_language.php:237
+msgid "Website Search"
+msgstr ""
+
+#: framework/_language.php:238
+msgid "New Arrivals"
+msgstr ""
+
+#: framework/_language.php:239
+msgid "Popular Categories"
+msgstr ""
+
+#: framework/_language.php:240 header.php:34
+msgid "Add Listing"
+msgstr ""
+
+#: framework/_language.php:241
+msgid "Manage Listings"
+msgstr ""
+
+#: framework/_language.php:242
+msgid "What are you looking for?"
+msgstr ""
+
+#: framework/_language.php:243
+msgid "Keyword or phrase.."
+msgstr ""
+
+#: framework/_language.php:244
+msgid "I'm currently located at"
+msgstr ""
+
+#: framework/_language.php:245
+msgid "Looking for"
+msgstr ""
+
+#: framework/_language.php:246
+msgid "Within distance"
+msgstr ""
+
+#: framework/_language.php:247
+msgid "In"
+msgstr ""
+
+#: framework/_language.php:248
+msgid "Website Listings"
+msgstr ""
+
+#: framework/_language.php:249
+msgid "Popular Searches"
+msgstr ""
+
+#: framework/_language.php:250
+msgid "Recently Added"
+msgstr ""
+
+#: framework/_language.php:251
+msgid "Most Popular"
+msgstr ""
+
+#: framework/_language.php:252
+msgid "Best Sellers"
+msgstr ""
+
+#: framework/_language.php:253
+msgid "Most Viewed"
+msgstr ""
+
+#: framework/_language.php:254
+msgid "Featured Listings"
+msgstr ""
+
+#: framework/_language.php:258
+msgid "Related Listing"
+msgstr ""
+
+#: framework/_language.php:259
+msgid "Contact Author"
+msgstr ""
+
+#: framework/_language.php:260
+msgid "Your Name"
+msgstr ""
+
+#: framework/_language.php:261
+msgid "Your Email"
+msgstr ""
+
+#: framework/_language.php:262
+msgid "Your Phone"
+msgstr ""
+
+#: framework/_language.php:263
+msgid "What is the sum of:"
+msgstr ""
+
+#: framework/_language.php:264
+msgid "Your Message"
+msgstr ""
+
+#: framework/_language.php:266
+msgid "Message Sent"
+msgstr ""
+
+#: framework/_language.php:267
+msgid "Security Code Incorrect"
+msgstr ""
+
+#: framework/_language.php:268
+msgid "Edit This Listing"
+msgstr ""
+
+#: framework/_language.php:269
+msgid "Make Payment"
+msgstr ""
+
+#: framework/_language.php:270
+msgid "This listing is awaiting payment and is NOT live."
+msgstr ""
+
+#: framework/_language.php:271
+msgid "Payment Options"
+msgstr ""
+
+#: framework/_language.php:272 framework/_language.php:358
+msgid "Close"
+msgstr ""
+
+#: framework/_language.php:273
+msgid "Listing Author"
+msgstr ""
+
+#: framework/_language.php:274 framework/_language.php:359
+#: framework/_language.php:430
+msgid "Listing Details"
+msgstr ""
+
+#: framework/_language.php:275
+msgid "Date Created"
+msgstr ""
+
+#: framework/_language.php:276
+msgid "Last Modified"
+msgstr ""
+
+#: framework/_language.php:277 framework/_language.php:1075
+msgid "Views"
+msgstr ""
+
+#: framework/_language.php:278
+msgid "Expires"
+msgstr ""
+
+#: framework/_language.php:279
+msgid ""
+"Note: This information is only visible to the listing author and not visible "
+"to the public."
+msgstr ""
+
+#: framework/_language.php:280
+msgid "Does this listing belong to your company?"
+msgstr ""
+
+#: framework/_language.php:281
+msgid "Click here to claim this listing."
+msgstr ""
+
+#: framework/_language.php:282
+msgid "Print this page"
+msgstr ""
+
+#: framework/_language.php:283
+msgid "Visit Link Here"
+msgstr ""
+
+#: framework/_language.php:286 framework/_language.php:572
+msgid "Phone"
+msgstr ""
+
+#: framework/_language.php:287 framework/_language.php:564
+#: framework/_language.php:1058
+msgid "Message"
+msgstr ""
+
+#: framework/_language.php:288
+msgid "Post Link"
+msgstr ""
+
+#: framework/_language.php:289
+msgid "Renew Listing"
+msgstr ""
+
+#: framework/_language.php:290
+msgid "%a for an additional %b days."
+msgstr ""
+
+#: framework/_language.php:291
+msgid "hits"
+msgstr ""
+
+#: framework/_language.php:292 framework/_language.php:366
+#: framework/_language.php:1069
+msgid "Description"
+msgstr ""
+
+#: framework/_language.php:293
+msgid "Details"
+msgstr ""
+
+#: framework/_language.php:294
+msgid "Contact"
+msgstr ""
+
+#: framework/_language.php:295 framework/_language.php:665
+msgid "Comments"
+msgstr ""
+
+#: framework/_language.php:296
+msgid "Price Comparison"
+msgstr ""
+
+#: framework/_language.php:297
+msgid "Attachments"
+msgstr ""
+
+#: framework/_language.php:298
+msgid "Article ID"
+msgstr ""
+
+#: framework/_language.php:299
+msgid "Facebook Share"
+msgstr ""
+
+#: framework/_language.php:300
+msgid "Tweet Article"
+msgstr ""
+
+#: framework/_language.php:301
+msgid "Export PDF"
+msgstr ""
+
+#: framework/_language.php:302
+msgid "Bookmark"
+msgstr ""
+
+#: framework/_language.php:303
+msgid "Email Article"
+msgstr ""
+
+#: framework/_language.php:304
+msgid "Leave Comment"
+msgstr ""
+
+#: framework/_language.php:305
+msgid "Be the first to review this listing"
+msgstr ""
+
+#: framework/_language.php:306
+msgid "This listing expires in "
+msgstr ""
+
+#: framework/_language.php:307
+msgid "Complete the fields below to contact this listing author."
+msgstr ""
+
+#: framework/_language.php:308
+msgid "Your Rating"
+msgstr ""
+
+#: framework/_language.php:309
+msgid "Beds"
+msgstr ""
+
+#: framework/_language.php:310
+msgid "Baths"
+msgstr ""
+
+#: framework/_language.php:311
+msgid "Sq Ft"
+msgstr ""
+
+#: framework/_language.php:315
+msgid "Search Results"
+msgstr ""
+
+#: framework/_language.php:316
+msgid "We have found <b class='num'>%a</b> items matching your search query."
+msgstr ""
+
+#: framework/_language.php:317
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: framework/_language.php:318
+msgid "<< First"
+msgstr ""
+
+#: framework/_language.php:319
+msgid "Last >>"
+msgstr ""
+
+#: framework/_language.php:320
+msgid "Sort By"
+msgstr ""
+
+#: framework/_language.php:322 framework/_language.php:323
+#: framework/_language.php:364 framework/_language.php:582
+#: framework/_language.php:1068
+msgid "Title"
+msgstr ""
+
+#: framework/_language.php:328 framework/_language.php:329
+#: framework/_language.php:469 framework/_language.php:1070
+#: framework/_language.php:1099
+msgid "Price"
+msgstr ""
+
+#: framework/_language.php:331
+msgid "Sorry, no listing matched your criteria."
+msgstr ""
+
+#: framework/_language.php:332
+msgid "Featured Category Listings"
+msgstr ""
+
+#: framework/_language.php:333
+msgid "Get Directions"
+msgstr ""
+
+#: framework/_language.php:334
+msgid "Listings Nearby"
+msgstr ""
+
+#: framework/_language.php:335
+msgid "Useful Links"
+msgstr ""
+
+#: framework/_language.php:336
+msgid "Nearest"
+msgstr ""
+
+#: framework/_language.php:337
+msgid "Furthest"
+msgstr ""
+
+#: framework/_language.php:338
+msgid "Order"
+msgstr ""
+
+#: framework/_language.php:339
+msgid "Nothing Found"
+msgstr ""
+
+#: framework/_language.php:340
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: framework/_language.php:341
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: framework/_language.php:342
+msgid "0 Results Found"
+msgstr ""
+
+#: framework/_language.php:343
+msgid "There were no results found for your search query."
+msgstr ""
+
+#: framework/_language.php:344
+msgid ""
+"We did not find any results for your search query. Please try again with a "
+"different search query."
+msgstr ""
+
+#: framework/_language.php:346 framework/_language.php:347
+#: framework/_language.php:759
+msgid "Expiry Date"
+msgstr ""
+
+#: framework/_language.php:349
+msgid "Popularity"
+msgstr ""
+
+#: framework/_language.php:350 framework/_language.php:1072
+msgid "Rating"
+msgstr ""
+
+#: framework/_language.php:355
+msgid "Listing Packages"
+msgstr ""
+
+#: framework/_language.php:360
+msgid "Package"
+msgstr ""
+
+#: framework/_language.php:361
+msgid "How does this work?"
+msgstr ""
+
+#: framework/_language.php:362
+msgid ""
+"Once you have completed the options below your new listing will be created "
+"but <b>will not go live</b> until payment has been received. This gives you "
+"time to check, modify and preview the listing before payment."
+msgstr ""
+
+#: framework/_language.php:363
+msgid "Contact Email"
+msgstr ""
+
+#: framework/_language.php:365
+msgid "Tag line"
+msgstr ""
+
+#: framework/_language.php:367
+msgid "Category"
+msgstr ""
+
+#: framework/_language.php:368
+msgid "Display File"
+msgstr ""
+
+#: framework/_language.php:369
+msgid ""
+"<strong>Notice</strong>  Once your listing has been saved you will be able "
+"to upload additional images."
+msgstr ""
+
+#: framework/_language.php:370
+msgid "Save listing"
+msgstr ""
+
+#: framework/_language.php:371
+msgid "Media Manager"
+msgstr ""
+
+#: framework/_language.php:372
+msgid "Add files..."
+msgstr ""
+
+#: framework/_language.php:373
+msgid "Upload All"
+msgstr ""
+
+#: framework/_language.php:374
+msgid "Start"
+msgstr ""
+
+#: framework/_language.php:376
+msgid "Error"
+msgstr ""
+
+#: framework/_language.php:377
+msgid "Please provide more details, your listing is too short."
+msgstr ""
+
+#: framework/_language.php:378
+msgid "Membership Packages"
+msgstr ""
+
+#: framework/_language.php:379
+msgid "Our membership packages let you submit multiple listings."
+msgstr ""
+
+#: framework/_language.php:380
+msgid "Per Listing Packages"
+msgstr ""
+
+#: framework/_language.php:381
+msgid "Our per listing packages let you pay for each listing separately."
+msgstr ""
+
+#: framework/_language.php:382
+msgid ""
+"All listings are removed once the listing or membership has expired unless "
+"renewed beforehand."
+msgstr ""
+
+#: framework/_language.php:383
+msgid "Saving Your Changes"
+msgstr ""
+
+#: framework/_language.php:384
+msgid "This may take a few minutes so please wait..."
+msgstr ""
+
+#: framework/_language.php:385
+msgid "Listing Enhancements"
+msgstr ""
+
+#: framework/_language.php:386
+msgid "Enhance your listing with any of the additional features below;"
+msgstr ""
+
+#: framework/_language.php:387
+msgid "Total Payment"
+msgstr ""
+
+#: framework/_language.php:388
+msgid "for a %a day listing."
+msgstr ""
+
+#: framework/_language.php:389
+msgid "for an <b>extra</b> %a day listing."
+msgstr ""
+
+#: framework/_language.php:390
+msgid "for a %a day membership."
+msgstr ""
+
+#: framework/_language.php:391
+msgid "Account Creation"
+msgstr ""
+
+#: framework/_language.php:392
+msgid ""
+"If you are already a member please login otherwise we will auto create a new "
+"account for you with the email address you provide above."
+msgstr ""
+
+#: framework/_language.php:393
+msgid "Location"
+msgstr ""
+
+#: framework/_language.php:394
+msgid ""
+"Click on the map below to zoom in and place a market on the location of your "
+"item or company."
+msgstr ""
+
+#: framework/_language.php:395
+msgid "Please select a valid location on the map."
+msgstr ""
+
+#: framework/_language.php:396
+msgid "Front Page Exposure"
+msgstr ""
+
+#: framework/_language.php:397
+msgid "Featured Listing"
+msgstr ""
+
+#: framework/_language.php:398
+msgid "HTML Listing Content"
+msgstr ""
+
+#: framework/_language.php:399
+msgid "Visitor Counter"
+msgstr ""
+
+#: framework/_language.php:400
+msgid "Top of Category"
+msgstr ""
+
+#: framework/_language.php:401
+msgid "Google Map"
+msgstr ""
+
+#: framework/_language.php:402
+msgid ""
+"Purchase this listing enhancement and see your listing featured on our home "
+"page! \n"
+"\t\t\t<p> Our home page listings generate 60% more exposure and is a great "
+"way to get your listing seen by more visitors.</p>"
+msgstr ""
+
+#: framework/_language.php:404
+msgid ""
+"Purchase this listing enhancement and see your listing highlighted in search "
+"results! <p> What better way to get your listing seen by visitors searching "
+"the website than with a highlighted listing standing out above the rest!</p>"
+msgstr ""
+
+#: framework/_language.php:405
+msgid ""
+"Purchase this listing enhancement and bring your listing to life with HTML "
+"content! <p> Customize your listing description with your own formatting, "
+"content and images with this feature.</p> __("
+msgstr ""
+
+#: framework/_language.php:406
+msgid ""
+"Purchase this listing enhancement and we'll monitor your listing visits. "
+"<p>Find out which of your listings is performing better with our visitor "
+"counter which will record all clicks on your listings and display then to "
+"you (visible to you only) at the bottom of your listings.</p>"
+msgstr ""
+
+#: framework/_language.php:407
+msgid ""
+"Purchase this listing enhancement and we'll feature your listing at the top "
+"of your chosen category pages.<p> This great feature will bring more "
+"exposure to your listing. Whenever a user searches a chosen category your "
+"listing will appear before all others at the top.</p>"
+msgstr ""
+
+#: framework/_language.php:408
+msgid ""
+"Purchase this listing enhancement and we'll display a map on your listing "
+"page."
+msgstr ""
+
+#: framework/_language.php:409
+msgid "You current map location is;"
+msgstr ""
+
+#: framework/_language.php:410 framework/_language.php:506
+#: framework/_language.php:977
+msgid "Country"
+msgstr ""
+
+#: framework/_language.php:411
+msgid "State/Province"
+msgstr ""
+
+#: framework/_language.php:412 framework/_language.php:510
+#: framework/_language.php:978
+msgid "City"
+msgstr ""
+
+#: framework/_language.php:413
+msgid ""
+"<b>File Attachments</b> <br /> \n"
+"\t\tOnce saved, new options will be available for you to upload file "
+"attachments."
+msgstr ""
+
+#: framework/_language.php:415
+msgid "Please enter your location."
+msgstr ""
+
+#: framework/_language.php:416
+msgid ""
+"We have detected you already have an account with us. Please login to your "
+"existing account to edit/modify your listings."
+msgstr ""
+
+#: framework/_language.php:417
+msgid "Select Payment Method"
+msgstr ""
+
+#: framework/_language.php:418
+msgid "Enter your physical location here."
+msgstr ""
+
+#: framework/_language.php:419
+msgid "included"
+msgstr ""
+
+#: framework/_language.php:421
+msgid "Account Upgraded"
+msgstr ""
+
+#: framework/_language.php:422
+msgid "Your account has been upgraded to this new membership."
+msgstr ""
+
+#: framework/_language.php:423
+msgid "Never Expires"
+msgstr ""
+
+#: framework/_language.php:424
+msgid "Upgrade Options"
+msgstr ""
+
+#: framework/_language.php:425
+msgid "Acceptable File Formats: jpg/.gif/.png/.pdf/.flv/.mp4/.mp3"
+msgstr ""
+
+#: framework/_language.php:426
+msgid "Upto %a Listings"
+msgstr ""
+
+#: framework/_language.php:427
+msgid "Listing Description"
+msgstr ""
+
+#: framework/_language.php:428
+msgid "Listing Category"
+msgstr ""
+
+#: framework/_language.php:429
+msgid "Listing Attachments"
+msgstr ""
+
+#: framework/_language.php:431
+msgid "Listing Location"
+msgstr ""
+
+#: framework/_language.php:432
+msgid "Display Image"
+msgstr ""
+
+#: framework/_language.php:433
+msgid "Listing Information"
+msgstr ""
+
+#: framework/_language.php:434
+msgid "None Set"
+msgstr ""
+
+#: framework/_language.php:435
+msgid "Keywords"
+msgstr ""
+
+#: framework/_language.php:436
+msgid "Enter a value below to create a new option."
+msgstr ""
+
+#: framework/_language.php:437
+msgid "Separate each keyword with a comma."
+msgstr ""
+
+#: framework/_language.php:438
+msgid "Display Order"
+msgstr ""
+
+#: framework/_language.php:439
+msgid ""
+"Parent Category <small class='right'>Hold CTRL to select multiple "
+"categories</small>"
+msgstr ""
+
+#: framework/_language.php:440
+msgid "Sub Category"
+msgstr ""
+
+#: framework/_language.php:441
+msgid "Sub Sub Category"
+msgstr ""
+
+#: framework/_language.php:442
+msgid "Sub Sub Sub Category"
+msgstr ""
+
+#: framework/_language.php:443
+msgid ""
+"<b>Parent Category Disabled.</b> Listings will only appear in sub categories."
+msgstr ""
+
+#: framework/_language.php:444
+msgid "You have selected too many categories. Only the first %a will be saved."
+msgstr ""
+
+#: framework/_language.php:445
+msgid "maximum categories."
+msgstr ""
+
+#: framework/_language.php:446
+msgid "selected."
+msgstr ""
+
+#: framework/_language.php:447
+msgid "You can select up to %a media files."
+msgstr ""
+
+#: framework/_language.php:448
+msgid "add images"
+msgstr ""
+
+#: framework/_language.php:449
+msgid "add videos"
+msgstr ""
+
+#: framework/_language.php:450
+msgid "add music"
+msgstr ""
+
+#: framework/_language.php:451
+msgid "add docs"
+msgstr ""
+
+#: framework/_language.php:452
+msgid "Edit Media"
+msgstr ""
+
+#: framework/_language.php:453
+msgid "all files"
+msgstr ""
+
+#: framework/_language.php:454
+msgid "images only"
+msgstr ""
+
+#: framework/_language.php:455
+msgid "videos only"
+msgstr ""
+
+#: framework/_language.php:456
+msgid "music only"
+msgstr ""
+
+#: framework/_language.php:457
+msgid "docs only"
+msgstr ""
+
+#: framework/_language.php:458
+msgid "Listing:"
+msgstr ""
+
+#: framework/_language.php:460
+msgid "Minimum of %a characters."
+msgstr ""
+
+#: framework/_language.php:461
+msgid "characters remaining."
+msgstr ""
+
+#: framework/_language.php:463
+msgid "Edit Listing"
+msgstr ""
+
+#: framework/_language.php:464
+msgid "You can edit your details listing below."
+msgstr ""
+
+#: framework/_language.php:468
+msgid "Item Name"
+msgstr ""
+
+#: framework/_language.php:470
+msgid "QTY"
+msgstr ""
+
+#: framework/_language.php:471
+msgid "Total"
+msgstr ""
+
+#: framework/_language.php:472
+msgid "remove"
+msgstr ""
+
+#: framework/_language.php:473
+msgid "Sub Total"
+msgstr ""
+
+#: framework/_language.php:474
+msgid "Shipping"
+msgstr ""
+
+#: framework/_language.php:475
+msgid "Tax"
+msgstr ""
+
+#: framework/_language.php:476
+msgid "Discount"
+msgstr ""
+
+#: framework/_language.php:477
+msgid "Empty Cart"
+msgstr ""
+
+#: framework/_language.php:478
+msgid "Basket Updated"
+msgstr ""
+
+#: framework/_language.php:479
+msgid ""
+"<b>Congratulations!</b> Your basket has been updated, what would you like to "
+"do now?"
+msgstr ""
+
+#: framework/_language.php:480
+msgid "Continue Shopping"
+msgstr ""
+
+#: framework/_language.php:481
+msgid "Checkout Now"
+msgstr ""
+
+#: framework/_language.php:482
+msgid "item(s)"
+msgstr ""
+
+#: framework/_language.php:483
+msgid "Add to Cart"
+msgstr ""
+
+#: framework/_language.php:484 framework/_language.php:488
+msgid "items"
+msgstr ""
+
+#: framework/_language.php:485
+msgid "Download Now"
+msgstr ""
+
+#: framework/_language.php:486
+msgid "Please select a value for %a."
+msgstr ""
+
+#: framework/_language.php:487
+msgid "Minimum order:"
+msgstr ""
+
+#: framework/_language.php:489
+msgid "downloads"
+msgstr ""
+
+#: framework/_language.php:490
+msgid "Step 1: Checkout Options"
+msgstr ""
+
+#: framework/_language.php:491
+msgid "Welcome back"
+msgstr ""
+
+#: framework/_language.php:492
+msgid "New Customer"
+msgstr ""
+
+#: framework/_language.php:493
+msgid ""
+"Creating a new account takes only a few seconds, its completely free and "
+"will help you manage your order, delivery and account details."
+msgstr ""
+
+#: framework/_language.php:494
+msgid "click here to register"
+msgstr ""
+
+#: framework/_language.php:495
+msgid "Registered Customers"
+msgstr ""
+
+#: framework/_language.php:496
+msgid "If you have an account with us, please log in."
+msgstr ""
+
+#: framework/_language.php:497
+msgid "click here to login"
+msgstr ""
+
+#: framework/_language.php:498
+msgid "Step 2: Delivery Details"
+msgstr ""
+
+#: framework/_language.php:500
+msgid "Step 3: Payment Method"
+msgstr ""
+
+#: framework/_language.php:501
+msgid "Your Delivery Details"
+msgstr ""
+
+#: framework/_language.php:502
+msgid "First Name"
+msgstr ""
+
+#: framework/_language.php:503
+msgid "Last Name"
+msgstr ""
+
+#: framework/_language.php:504
+msgid "Email Address"
+msgstr ""
+
+#: framework/_language.php:505
+msgid "Telephone"
+msgstr ""
+
+#: framework/_language.php:507
+msgid "Preferred Delivery Method"
+msgstr ""
+
+#: framework/_language.php:508
+msgid "Address"
+msgstr ""
+
+#: framework/_language.php:509
+msgid "Address 2"
+msgstr ""
+
+#: framework/_language.php:511
+msgid "ZIP/Postal Code"
+msgstr ""
+
+#: framework/_language.php:512
+msgid "State/Region"
+msgstr ""
+
+#: framework/_language.php:513
+msgid "Your basket is empty"
+msgstr ""
+
+#: framework/_language.php:514
+msgid "Have any comments or feedback regarding this order?"
+msgstr ""
+
+#: framework/_language.php:515
+msgid "Out of Stock"
+msgstr ""
+
+#: framework/_language.php:516
+msgid "Product"
+msgstr ""
+
+#: framework/_language.php:517
+msgid "Best Price"
+msgstr ""
+
+#: framework/_language.php:518
+msgid "Visit Store"
+msgstr ""
+
+#: framework/_language.php:519
+msgid "Guest Checkout"
+msgstr ""
+
+#: framework/_language.php:520
+msgid "Members Only - Please login to use this feature."
+msgstr ""
+
+#: framework/_language.php:521
+msgid "Weight"
+msgstr ""
+
+#: framework/_language.php:522
+msgid "Remove Item"
+msgstr ""
+
+#: framework/_language.php:523 framework/_language.php:1080
+msgid "Availability"
+msgstr ""
+
+#: framework/_language.php:524
+msgid "In Stock"
+msgstr ""
+
+#: framework/_language.php:525
+msgid "Added"
+msgstr ""
+
+#: framework/_language.php:526
+msgid "shop now"
+msgstr ""
+
+#: framework/_language.php:531
+msgid "Welcome to your account area."
+msgstr ""
+
+#: framework/_language.php:532 framework/_language.php:1105
+msgid "My Account"
+msgstr ""
+
+#: framework/_language.php:533
+msgid "Here you can view, modify and update your account details."
+msgstr ""
+
+#: framework/_language.php:534
+msgid "Create Listing"
+msgstr ""
+
+#: framework/_language.php:535
+msgid "Here you can create a new website listing."
+msgstr ""
+
+#: framework/_language.php:536
+msgid "My Listings"
+msgstr ""
+
+#: framework/_language.php:537
+msgid "Here you can view your existing website listing."
+msgstr ""
+
+#: framework/_language.php:540
+msgid "Password"
+msgstr ""
+
+#: framework/_language.php:541
+msgid "Re-Type Password"
+msgstr ""
+
+#: framework/_language.php:542
+msgid ""
+"No money has been taken from your account, the transaction was not completed "
+"successfully."
+msgstr ""
+
+#: framework/_language.php:543
+msgid "About Me/ Extra Details"
+msgstr ""
+
+#: framework/_language.php:546
+msgid "Message Deleted"
+msgstr ""
+
+#: framework/_language.php:547
+msgid "Message Sent Successfully"
+msgstr ""
+
+#: framework/_language.php:548
+msgid "Username not found"
+msgstr ""
+
+#: framework/_language.php:549 framework/_language.php:551
+msgid "Profile Data Updated"
+msgstr ""
+
+#: framework/_language.php:550
+msgid "New Password Invalid"
+msgstr ""
+
+#: framework/_language.php:552
+msgid "Listing Successfully Removed"
+msgstr ""
+
+#: framework/_language.php:553
+msgid ""
+"\n"
+"\t\t<h4>Thank You</h4> This listing has now been assigned to your account."
+msgstr ""
+
+#: framework/_language.php:555
+msgid ""
+"<h4>Too Many Claims!</h4> Our system shows you have already claimed a "
+"listing before. <br/>Please contact our management team if you wish to claim "
+"any further listings."
+msgstr ""
+
+#: framework/_language.php:556
+msgid ""
+"<h4>Submission Limit Reached</h4> You have reached your membership "
+"submission limit. Please delete an existing listing or upgrade your "
+"membership."
+msgstr ""
+
+#: framework/_language.php:557
+msgid "My Messages"
+msgstr ""
+
+#: framework/_language.php:558
+msgid "Here you can view any messages sent by our website members."
+msgstr ""
+
+#: framework/_language.php:559
+msgid "%a New Message"
+msgstr ""
+
+#: framework/_language.php:561
+msgid ""
+"Fill out the fields below to send a private message to one of our members."
+msgstr ""
+
+#: framework/_language.php:562
+msgid "Member Username"
+msgstr ""
+
+#: framework/_language.php:563 framework/_language.php:567
+msgid "Subject"
+msgstr ""
+
+#: framework/_language.php:569
+msgid "Compose Message"
+msgstr ""
+
+#: framework/_language.php:570
+msgid "Your inbox is empty."
+msgstr ""
+
+#: framework/_language.php:571
+msgid "a website visitor"
+msgstr ""
+
+#: framework/_language.php:573
+msgid "Email subscriptions have been updated"
+msgstr ""
+
+#: framework/_language.php:574
+msgid "Membership Enabled"
+msgstr ""
+
+#: framework/_language.php:575
+msgid "My Subscriptions"
+msgstr ""
+
+#: framework/_language.php:576
+msgid ""
+"Here you can subscribe to our website categories and receive an email when a "
+"new listing is added."
+msgstr ""
+
+#: framework/_language.php:577
+msgid "My Favorites"
+msgstr ""
+
+#: framework/_language.php:578
+msgid "Here you can view and manage your favorites list."
+msgstr ""
+
+#: framework/_language.php:579
+msgid "Hide Form"
+msgstr ""
+
+#: framework/_language.php:580
+msgid ""
+"Select categories which you would like to subscribe to below. Whenever a new "
+"listing is created within one of your selected categories we will send you "
+"an email."
+msgstr ""
+
+#: framework/_language.php:581 framework/_language.php:817
+msgid "Actions"
+msgstr ""
+
+#: framework/_language.php:584
+msgid "<h4>Your List is Empty</h4> Looks like you haven't added anything yet."
+msgstr ""
+
+#: framework/_language.php:585
+msgid "Withdrawal"
+msgstr ""
+
+#: framework/_language.php:586
+msgid "Here you can withdraw money from your account."
+msgstr ""
+
+#: framework/_language.php:587
+msgid ""
+"Please complete the fields below, we will contact you within 48 hours "
+"regarding your request."
+msgstr ""
+
+#: framework/_language.php:588
+msgid "Your current balance is:"
+msgstr ""
+
+#: framework/_language.php:589
+#, php-format
+msgid "<b>Note.</b> All withdrawals are subject to a %%a service fee."
+msgstr ""
+
+#: framework/_language.php:590
+msgid "How much would you like to withdraw?"
+msgstr ""
+
+#: framework/_language.php:591
+msgid "Payment Preferences"
+msgstr ""
+
+#: framework/_language.php:592
+msgid "Send Request"
+msgstr ""
+
+#: framework/_language.php:593
+msgid "[IMPORTANT] Payment Withdrawal Request"
+msgstr ""
+
+#: framework/_language.php:594
+msgid "Thank You. Your request has been sent."
+msgstr ""
+
+#: framework/_language.php:595
+msgid ""
+"<h4>Pending User Changes</h4><p>Please adjust your listing according to the "
+"admin comments below;</p>"
+msgstr ""
+
+#: framework/_language.php:596
+msgid ""
+"<h4>Pending Admin Approval</h4> <p>Your listing will go live once it has "
+"been approved by a website admin.<br /><b>Thank you for your patience.</b>"
+msgstr ""
+
+#: framework/_language.php:597
+msgid "<h4>Current Item Status:</h4>"
+msgstr ""
+
+#: framework/_language.php:598
+msgid "Renew Now"
+msgstr ""
+
+#: framework/_language.php:599
+msgid "Photo"
+msgstr ""
+
+#: framework/_language.php:600
+msgid "Remove From List"
+msgstr ""
+
+#: framework/_language.php:601
+msgid "My Friends/Blocked List"
+msgstr ""
+
+#: framework/_language.php:602
+msgid "Here you can view users you have added as friends and/or blocked."
+msgstr ""
+
+#: framework/_language.php:603
+msgid "My Friends"
+msgstr ""
+
+#: framework/_language.php:604
+msgid "My Blocked User List"
+msgstr ""
+
+#: framework/_language.php:605
+msgid "Listing Updated"
+msgstr ""
+
+#: framework/_language.php:606
+msgid "Read"
+msgstr ""
+
+#: framework/_language.php:607 framework/_language.php:891
+msgid "New"
+msgstr ""
+
+#: framework/_language.php:608
+msgid "Negative Amount Balance"
+msgstr ""
+
+#: framework/_language.php:609
+msgid "Amount due %a. Please make payment as soon as possible."
+msgstr ""
+
+#: framework/_language.php:610
+msgid "Display Photo"
+msgstr ""
+
+#: framework/_language.php:611
+msgid ""
+"Invalid Membership Access - Please upgrade your membership to access this "
+"feature."
+msgstr ""
+
+#: framework/_language.php:612 framework/_language.php:1014
+msgid "Feedback"
+msgstr ""
+
+#: framework/_language.php:613
+msgid "Here you can view feedback left and received."
+msgstr ""
+
+#: framework/_language.php:614
+msgid "Select All"
+msgstr ""
+
+#: framework/_language.php:615
+msgid "Delete Selected"
+msgstr ""
+
+#: framework/_language.php:616
+msgid "Profile Background"
+msgstr ""
+
+#: framework/_language.php:617
+msgid "Social Media"
+msgstr ""
+
+#: framework/_language.php:618
+msgid "login's."
+msgstr ""
+
+#: framework/_language.php:619
+msgid "Joined %a ago."
+msgstr ""
+
+#: framework/_language.php:621
+msgid "Premium Advertising"
+msgstr ""
+
+#: framework/_language.php:622
+msgid "Advertising"
+msgstr ""
+
+#: framework/_language.php:623 framework/_language.php:634
+msgid "My Banners"
+msgstr ""
+
+#: framework/_language.php:625
+msgid "no active orders found"
+msgstr ""
+
+#: framework/_language.php:627
+msgid "Size"
+msgstr ""
+
+#: framework/_language.php:628
+msgid "Impressions"
+msgstr ""
+
+#: framework/_language.php:629
+msgid "Clicks"
+msgstr ""
+
+#: framework/_language.php:630
+msgid "Select Banner"
+msgstr ""
+
+#: framework/_language.php:631
+msgid "Please update a banner with the dimensions"
+msgstr ""
+
+#: framework/_language.php:632
+msgid "Enter Banner Link"
+msgstr ""
+
+#: framework/_language.php:633
+msgid "Upload Banner"
+msgstr ""
+
+#: framework/_language.php:635
+msgid "Available Advertising Opportunities"
+msgstr ""
+
+#: framework/_language.php:636
+msgid "Accepted formats are: jpg/jpeg/gif"
+msgstr ""
+
+#: framework/_language.php:637
+msgid "Banner Set Successfully"
+msgstr ""
+
+#: framework/_language.php:638
+msgid "Banner Deleted Successfully"
+msgstr ""
+
+#: framework/_language.php:639
+msgid "File Type Invalid"
+msgstr ""
+
+#: framework/_language.php:640
+msgid "Banners Saved Successfully"
+msgstr ""
+
+#: framework/_language.php:644
+msgid "Payment Complete"
+msgstr ""
+
+#: framework/_language.php:645
+msgid "Thank you for your order."
+msgstr ""
+
+#: framework/_language.php:646
+msgid ""
+"Your order has now been completed, you will be contacted by our team shortly."
+msgstr ""
+
+#: framework/_language.php:647
+msgid "Payment Failed"
+msgstr ""
+
+#: framework/_language.php:648
+msgid "Sorry but there was an error during checkout."
+msgstr ""
+
+#: framework/_language.php:649
+msgid "No money has been taken from your account."
+msgstr ""
+
+#: framework/_language.php:650
+msgid "Return to website listing."
+msgstr ""
+
+#: framework/_language.php:655
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: framework/_language.php:657
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#: framework/_language.php:659
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: framework/_language.php:661
+msgid "Submit Comment"
+msgstr ""
+
+#: framework/_language.php:662
+msgid "Leave a Comment"
+msgstr ""
+
+#: framework/_language.php:663
+msgid "No Comments"
+msgstr ""
+
+#: framework/_language.php:664
+msgid "1 Comment"
+msgstr ""
+
+#: framework/_language.php:666
+msgid "+ Add Comment"
+msgstr ""
+
+#: framework/_language.php:667
+msgid "Comment Added Successfully."
+msgstr ""
+
+#: framework/_language.php:671
+msgid "Member Login"
+msgstr ""
+
+#: framework/_language.php:672
+msgid "Not yet a member?"
+msgstr ""
+
+#: framework/_language.php:673
+msgid "Click here to register a new account."
+msgstr ""
+
+#: framework/_language.php:674 framework/_language.php:846
+#: framework/_language.php:1054
+msgid "Submit"
+msgstr ""
+
+#: framework/_language.php:675
+msgid "Forgotten Password?"
+msgstr ""
+
+#: framework/_language.php:676
+msgid "Register New Account"
+msgstr ""
+
+#: framework/_language.php:677
+msgid "A password will be emailed to you."
+msgstr ""
+
+#: framework/_language.php:678
+msgid "Enter your username or email below;"
+msgstr ""
+
+#: framework/_language.php:679
+msgid "Send me a new password"
+msgstr ""
+
+#: framework/_language.php:680
+msgid "Username"
+msgstr ""
+
+#: framework/_language.php:681
+msgid ""
+"<h1>Account Pending</h1><p>Your account is still under review, once approved "
+"you will be able to login.</p>"
+msgstr ""
+
+#: framework/_language.php:682
+msgid ""
+"<h1>Account Suspended</h1><p>We are sorry but your account has been "
+"suspended.</p>"
+msgstr ""
+
+#: framework/_language.php:683
+msgid ""
+"<h1>You're Fired!!</h1><p>We are sorry but your account has been terminated "
+"and you are now fired.</p>\n"
+"\t\t"
+msgstr ""
+
+#: framework/_language.php:685
+msgid ""
+"<strong>ERROR</strong>: You didn't correctly enter the captcha, please try "
+"again."
+msgstr ""
+
+#: framework/_language.php:686
+msgid ""
+"Enter your account username or email below and we will send you a new "
+"password."
+msgstr ""
+
+#: framework/_language.php:687
+msgid ""
+"Complete the fields below to register a new account. Your login username and "
+"password will be sent to the email address you enter below."
+msgstr ""
+
+#: framework/_language.php:688
+msgid "Please Try Again"
+msgstr ""
+
+#: framework/_language.php:689
+msgid "Create Account"
+msgstr ""
+
+#: framework/_language.php:690
+msgid "Select"
+msgstr ""
+
+#: framework/_language.php:691
+msgid "Selected"
+msgstr ""
+
+#: framework/_language.php:692
+msgid "Type the code above:"
+msgstr ""
+
+#: framework/_language.php:693
+msgid "A password will be e-mailed to you."
+msgstr ""
+
+#: framework/_language.php:694
+msgid "Username or Email:"
+msgstr ""
+
+#: framework/_language.php:695
+msgid "Get New Password"
+msgstr ""
+
+#: framework/_language.php:696
+msgid ""
+"Please enter your username or e-mail address. You will receive a new "
+"password via e-mail."
+msgstr ""
+
+#: framework/_language.php:697
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: framework/_language.php:698
+msgid "You are now logged out."
+msgstr ""
+
+#: framework/_language.php:699
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: framework/_language.php:700
+msgid "Check your e-mail for the confirmation link."
+msgstr ""
+
+#: framework/_language.php:701
+msgid "Check your e-mail for your new password."
+msgstr ""
+
+#: framework/_language.php:702
+msgid "Registration complete."
+msgstr ""
+
+#: framework/_language.php:703
+msgid "Account Login Details"
+msgstr ""
+
+#: framework/_language.php:704
+msgid "The validation answer is incorrect"
+msgstr ""
+
+#: framework/_language.php:705
+msgid ""
+"We are protecting ourselves from spam,<a href='%a'> please click here to "
+"register. </a>"
+msgstr ""
+
+#: framework/_language.php:707
+msgid "Already a Member?"
+msgstr ""
+
+#: framework/_language.php:708
+msgid "Get started now. Login to your account."
+msgstr ""
+
+#: framework/_language.php:709
+msgid "New to our website?"
+msgstr ""
+
+#: framework/_language.php:710
+msgid "Get started now. It's fast and easy."
+msgstr ""
+
+#: framework/_language.php:711
+msgid "New Password"
+msgstr ""
+
+#: framework/_language.php:713
+msgid "Confirm new password"
+msgstr ""
+
+#: framework/_language.php:714
+msgid "Reset Password"
+msgstr ""
+
+#: framework/_language.php:716
+msgid "Membership Options"
+msgstr ""
+
+#: framework/_language.php:717
+msgid "Please select a membership package from the list below."
+msgstr ""
+
+#: framework/_language.php:718
+msgid "Please select a membership package."
+msgstr ""
+
+#: framework/_language.php:719
+msgid "The login credentials you entered were incorrect."
+msgstr ""
+
+#: framework/_language.php:723
+msgid "Listing Status"
+msgstr ""
+
+#: framework/_language.php:724
+msgid "Active / Available / Open"
+msgstr ""
+
+#: framework/_language.php:725
+msgid "Un-Available"
+msgstr ""
+
+#: framework/_language.php:726
+msgid "Leased"
+msgstr ""
+
+#: framework/_language.php:727
+msgid "Rented"
+msgstr ""
+
+#: framework/_language.php:728
+msgid "Pending Sale"
+msgstr ""
+
+#: framework/_language.php:729
+msgid "Sold"
+msgstr ""
+
+#: framework/_language.php:730
+msgid "Finished"
+msgstr ""
+
+#: framework/_language.php:731
+msgid "Closed"
+msgstr ""
+
+#: framework/_language.php:732
+msgid "Abandoned"
+msgstr ""
+
+#: framework/_language.php:736
+msgid "Visitor History"
+msgstr ""
+
+#: framework/_language.php:738
+msgid "Unique Visitors"
+msgstr ""
+
+#: framework/_language.php:739
+msgid "Visitors"
+msgstr ""
+
+#: framework/_language.php:743
+msgid "Invalid Coupon Code"
+msgstr ""
+
+#: framework/_language.php:744
+msgid "Coupon Discount Applied."
+msgstr ""
+
+#: framework/_language.php:745
+msgid "Apply discount code"
+msgstr ""
+
+#: framework/_language.php:746
+msgid "Discount code:"
+msgstr ""
+
+#: framework/_language.php:747
+msgid "Enter your coupon here"
+msgstr ""
+
+#: framework/_language.php:748
+msgid "You can only use one discount code at a time"
+msgstr ""
+
+#: framework/_language.php:749
+msgid "Apply Coupon"
+msgstr ""
+
+#: framework/_language.php:750 framework/_language.php:800
+#: framework/_language.php:921
+msgid "Type"
+msgstr ""
+
+#: framework/_language.php:751
+msgid "Website Coupons"
+msgstr ""
+
+#: framework/_language.php:752
+msgid "Printable Coupons"
+msgstr ""
+
+#: framework/_language.php:753
+msgid "Deals &amp; Offers"
+msgstr ""
+
+#: framework/_language.php:754
+msgid "Coupon Code"
+msgstr ""
+
+#: framework/_language.php:755
+msgid "Please enter the coupon or discount code for this coupon here."
+msgstr ""
+
+#: framework/_language.php:756 framework/_language.php:1006
+msgid "Website Link"
+msgstr ""
+
+#: framework/_language.php:757
+msgid "Please enter a website link with more details about this coupon."
+msgstr ""
+
+#: framework/_language.php:758
+msgid "Start Date"
+msgstr ""
+
+#: framework/_language.php:760
+msgid "expired"
+msgstr ""
+
+#: framework/_language.php:761
+msgid "Copy and enter this coupon code at checkout:"
+msgstr ""
+
+#: framework/_language.php:762
+msgid "There is no coupon required for this offer."
+msgstr ""
+
+#: framework/_language.php:763
+msgid "Join our mailing list below and stay updated with the latest discounts."
+msgstr ""
+
+#: framework/_language.php:765
+msgid "Please enter a valid email."
+msgstr ""
+
+#: framework/_language.php:766
+msgid "click to copy and visit website"
+msgstr ""
+
+#: framework/_language.php:767
+msgid "Success Meter"
+msgstr ""
+
+#: framework/_language.php:768
+msgid "Works"
+msgstr ""
+
+#: framework/_language.php:769
+msgid "Doesn't"
+msgstr ""
+
+#: framework/_language.php:771 framework/_language.php:1004
+msgid "Thank You!"
+msgstr ""
+
+#: framework/_language.php:772
+msgid "You've Already Rated!"
+msgstr ""
+
+#: framework/_language.php:773
+msgid "coupons"
+msgstr ""
+
+#: framework/_language.php:774
+msgid "expired %a ago."
+msgstr ""
+
+#: framework/_language.php:775
+msgid "hide expired"
+msgstr ""
+
+#: framework/_language.php:776
+msgid "View Deal"
+msgstr ""
+
+#: framework/_language.php:777
+msgid "Click to Reveal"
+msgstr ""
+
+#: framework/_language.php:778
+msgid "more from"
+msgstr ""
+
+#: framework/_language.php:779
+msgid "Expires in"
+msgstr ""
+
+#: framework/_language.php:780
+msgid "Browse Popular Stores"
+msgstr ""
+
+#: framework/_language.php:781
+msgid "Doesn't Expire"
+msgstr ""
+
+#: framework/_language.php:782
+msgid "No Code Needed"
+msgstr ""
+
+#: framework/_language.php:784
+msgid "Popular Stores"
+msgstr ""
+
+#: framework/_language.php:785
+msgid "Copy the code below then click visit website;"
+msgstr ""
+
+#: framework/_language.php:786
+msgid "VISIT WEBSITE"
+msgstr ""
+
+#: framework/_language.php:787
+msgid "Please leave a rating:"
+msgstr ""
+
+#: framework/_language.php:788
+msgid "It Worked"
+msgstr ""
+
+#: framework/_language.php:789
+msgid "Didn't Work"
+msgstr ""
+
+#: framework/_language.php:790
+msgid "last used %a ago"
+msgstr ""
+
+#: framework/_language.php:792
+msgid "All Coupons"
+msgstr ""
+
+#: framework/_language.php:793
+msgid "All Stores"
+msgstr ""
+
+#: framework/_language.php:797
+msgid "Item not sold."
+msgstr ""
+
+#: framework/_language.php:798
+msgid " was the winning bidder."
+msgstr ""
+
+#: framework/_language.php:799
+msgid "Auction Finished"
+msgstr ""
+
+#: framework/_language.php:801
+msgid "Normal Auction"
+msgstr ""
+
+#: framework/_language.php:802
+msgid "Classifieds (Buy Now Only)"
+msgstr ""
+
+#: framework/_language.php:803
+msgid "Here you can choose the format of your auction."
+msgstr ""
+
+#: framework/_language.php:804
+msgid "Buy Now Price"
+msgstr ""
+
+#: framework/_language.php:805
+msgid "Here you can set a price for the user to buy this item outright."
+msgstr ""
+
+#: framework/_language.php:806
+msgid "Reserve Price"
+msgstr ""
+
+#: framework/_language.php:807
+msgid "Here you can set the lowest price your willing to sell this item for."
+msgstr ""
+
+#: framework/_language.php:808
+msgid "Auction Length"
+msgstr ""
+
+#: framework/_language.php:809
+msgid "Select the number of days you would like the auction to run for."
+msgstr ""
+
+#: framework/_language.php:810
+msgid "My Payment Options"
+msgstr ""
+
+#: framework/_language.php:811
+msgid "Paypal email updated successfully."
+msgstr ""
+
+#: framework/_language.php:812
+msgid ""
+"Please enter your PayPal email below, all of your auction payments will be "
+"sent to this email minus our service and commission charges."
+msgstr ""
+
+#: framework/_language.php:813
+msgid "PayPal Email"
+msgstr ""
+
+#: framework/_language.php:814 framework/_language.php:883
+msgid "Bidding History"
+msgstr ""
+
+#: framework/_language.php:815 framework/_language.php:1034
+msgid "Item"
+msgstr ""
+
+#: framework/_language.php:816
+msgid "Max Bid"
+msgstr ""
+
+#: framework/_language.php:818
+msgid "Auction Status"
+msgstr ""
+
+#: framework/_language.php:819 framework/_language.php:1013
+msgid "Leave Feedback"
+msgstr ""
+
+#: framework/_language.php:820
+msgid "View Auction"
+msgstr ""
+
+#: framework/_language.php:821
+msgid "Feedback you left on"
+msgstr ""
+
+#: framework/_language.php:822
+msgid "Here you can setup your payment options for receiving payments."
+msgstr ""
+
+#: framework/_language.php:823
+msgid "Here you can view your bidding history."
+msgstr ""
+
+#: framework/_language.php:824
+msgid "You are the winning bidder."
+msgstr ""
+
+#: framework/_language.php:825
+msgid "Bid amount of (%a) is invalid."
+msgstr ""
+
+#: framework/_language.php:826
+msgid "You have been outbid!"
+msgstr ""
+
+#: framework/_language.php:827
+msgid "You are now the highest bidder."
+msgstr ""
+
+#: framework/_language.php:828
+msgid "Highest"
+msgstr ""
+
+#: framework/_language.php:829
+msgid "Your max bid is"
+msgstr ""
+
+#: framework/_language.php:830
+msgid "and the sellers reserve price is"
+msgstr ""
+
+#: framework/_language.php:831
+msgid ""
+"<b>Note</b> If this auction ends your bid will be increased to match the "
+"reserve."
+msgstr ""
+
+#: framework/_language.php:832
+msgid "which is less than the sellers reserve price of"
+msgstr ""
+
+#: framework/_language.php:833
+msgid "<b>Note</b> If the reserve price is not met the item will not be sold."
+msgstr ""
+
+#: framework/_language.php:834
+msgid "Reserve Price Not Met"
+msgstr ""
+
+#: framework/_language.php:835
+msgid "This auction has ended."
+msgstr ""
+
+#: framework/_language.php:836
+msgid "was the winning bidder."
+msgstr ""
+
+#: framework/_language.php:837
+msgid "Contact Seller"
+msgstr ""
+
+#: framework/_language.php:838
+msgid "Contact Buyer"
+msgstr ""
+
+#: framework/_language.php:839
+msgid "Please leave some feedback about this transaction."
+msgstr ""
+
+#: framework/_language.php:840
+msgid "Please leave a user rating:"
+msgstr ""
+
+#: framework/_language.php:841
+msgid "Bad (0%)"
+msgstr ""
+
+#: framework/_language.php:842
+msgid "Poor"
+msgstr ""
+
+#: framework/_language.php:843
+msgid "Regular"
+msgstr ""
+
+#: framework/_language.php:844
+msgid "Good"
+msgstr ""
+
+#: framework/_language.php:845
+msgid "Excellent (100%)"
+msgstr ""
+
+#: framework/_language.php:847
+msgid "Bidding Options"
+msgstr ""
+
+#: framework/_language.php:848
+msgid "What would you like to do?"
+msgstr ""
+
+#: framework/_language.php:849
+msgid "Bid"
+msgstr ""
+
+#: framework/_language.php:850
+msgid "You cannot bid on your own item."
+msgstr ""
+
+#: framework/_language.php:851
+msgid "Buy Now"
+msgstr ""
+
+#: framework/_language.php:852
+msgid "Please login to bid."
+msgstr ""
+
+#: framework/_language.php:853
+msgid "Reserve price has not yet met."
+msgstr ""
+
+#: framework/_language.php:854
+msgid "Contact seller"
+msgstr ""
+
+#: framework/_language.php:855
+msgid "Positive Feedback"
+msgstr ""
+
+#: framework/_language.php:856
+msgid "View other items by this seller"
+msgstr ""
+
+#: framework/_language.php:857
+msgid "Joined"
+msgstr ""
+
+#: framework/_language.php:858
+msgid "Confirm Bidding"
+msgstr ""
+
+#: framework/_language.php:859
+msgid "Please check and confirm your bid amount."
+msgstr ""
+
+#: framework/_language.php:860
+msgid "Bid Amount:"
+msgstr ""
+
+#: framework/_language.php:861
+msgid "By making a bid you confirm to our website terms and conditions"
+msgstr ""
+
+#: framework/_language.php:862
+msgid "Confirm Bid"
+msgstr ""
+
+#: framework/_language.php:863
+msgid "Shipping Price"
+msgstr ""
+
+#: framework/_language.php:864
+msgid "Here you enter an amount for shipping this item."
+msgstr ""
+
+#: framework/_language.php:865
+msgid "Reserve price met."
+msgstr ""
+
+#: framework/_language.php:866
+msgid "Make Bid"
+msgstr ""
+
+#: framework/_language.php:867
+msgid "Seller"
+msgstr ""
+
+#: framework/_language.php:868
+msgid "You cannot bid on your own auctions."
+msgstr ""
+
+#: framework/_language.php:869
+msgid "Please bid greater than."
+msgstr ""
+
+#: framework/_language.php:870
+msgid "Starting Price"
+msgstr ""
+
+#: framework/_language.php:871
+msgid "This is the price the bidding will start at."
+msgstr ""
+
+#: framework/_language.php:872
+msgid "finished"
+msgstr ""
+
+#: framework/_language.php:873
+msgid "active"
+msgstr ""
+
+#: framework/_language.php:874
+msgid "now"
+msgstr ""
+
+#: framework/_language.php:875
+msgid ""
+"<b>Now What?</b><br />\n"
+"\t\tThe user has not specified a payment method. Please contact the user for "
+"payment instructions."
+msgstr ""
+
+#: framework/_language.php:877
+msgid "Would you like to re-list this item?"
+msgstr ""
+
+#: framework/_language.php:878
+msgid "You can re-list this item free for %a days."
+msgstr ""
+
+#: framework/_language.php:879
+msgid "Re-list Item"
+msgstr ""
+
+#: framework/_language.php:880
+msgid "Bidding ends in;"
+msgstr ""
+
+#: framework/_language.php:881
+msgid "Current Price"
+msgstr ""
+
+#: framework/_language.php:882
+msgid "Sellers Details"
+msgstr ""
+
+#: framework/_language.php:884
+msgid "No Bidding History"
+msgstr ""
+
+#: framework/_language.php:885
+msgid "bids"
+msgstr ""
+
+#: framework/_language.php:886
+msgid "Enter your <b>max</b> bid"
+msgstr ""
+
+#: framework/_language.php:887
+msgid ""
+"\n"
+"\t\t<p>To help you get the best price possible we have an automated bidding "
+"system. </p><p>Enter the maximum amount you are willing to pay for this item "
+"and our system will start at the lowest bid price and automatically re-bid "
+"for you up to your maximum bid.</p><p>This way you do not need to bid again "
+"and will always get the item for the best possible price.</p>\n"
+msgstr ""
+
+#: framework/_language.php:890
+msgid "Condition"
+msgstr ""
+
+#: framework/_language.php:892
+msgid "Used"
+msgstr ""
+
+#: framework/_language.php:893
+msgid "available"
+msgstr ""
+
+#: framework/_language.php:894
+msgid "Buy Now Quantity"
+msgstr ""
+
+#: framework/_language.php:895
+msgid "Enter the number of items available for sale."
+msgstr ""
+
+#: framework/_language.php:896
+msgid "Bids"
+msgstr ""
+
+#: framework/_language.php:897
+msgid "Won"
+msgstr ""
+
+#: framework/_language.php:898
+msgid "Messages"
+msgstr ""
+
+#: framework/_language.php:902
+msgid "My Accepted Jobs"
+msgstr ""
+
+#: framework/_language.php:903
+msgid "Here you will find a list jobs you've been accepted for."
+msgstr ""
+
+#: framework/_language.php:904
+msgid "Jobs Applied For"
+msgstr ""
+
+#: framework/_language.php:905
+msgid "Here you will find a list jobs you've applied for."
+msgstr ""
+
+#: framework/_language.php:906
+msgid "Congratulations, Project Winner"
+msgstr ""
+
+#: framework/_language.php:907
+msgid "Your bid was accepted and you have now been assigned this job."
+msgstr ""
+
+#: framework/_language.php:908
+msgid "Congratulations, Candidate Selected"
+msgstr ""
+
+#: framework/_language.php:909
+msgid "Please contact your chosen candidate below;"
+msgstr ""
+
+#: framework/_language.php:910
+msgid "Contact Developer"
+msgstr ""
+
+#: framework/_language.php:911
+msgid "or"
+msgstr ""
+
+#: framework/_language.php:912
+msgid "Upload CV"
+msgstr ""
+
+#: framework/_language.php:913
+msgid "Apply Online"
+msgstr ""
+
+#: framework/_language.php:914
+msgid "Details of applicants will appear here once they apply."
+msgstr ""
+
+#: framework/_language.php:915
+msgid "Published"
+msgstr ""
+
+#: framework/_language.php:919
+msgid "Make"
+msgstr ""
+
+#: framework/_language.php:920
+msgid "Model"
+msgstr ""
+
+#: framework/_language.php:922
+msgid "Asking Price"
+msgstr ""
+
+#: framework/_language.php:923
+msgid "Vehicle Details"
+msgstr ""
+
+#: framework/_language.php:924
+msgid "Year"
+msgstr ""
+
+#: framework/_language.php:926
+msgid "Exterior"
+msgstr ""
+
+#: framework/_language.php:927
+msgid "Interior"
+msgstr ""
+
+#: framework/_language.php:928
+msgid "Drive"
+msgstr ""
+
+#: framework/_language.php:929
+msgid "Left"
+msgstr ""
+
+#: framework/_language.php:930
+msgid "Right"
+msgstr ""
+
+#: framework/_language.php:931
+msgid "Transmission"
+msgstr ""
+
+#: framework/_language.php:932
+msgid "Manual"
+msgstr ""
+
+#: framework/_language.php:933
+msgid "Automatic"
+msgstr ""
+
+#: framework/_language.php:934
+msgid "Semi-Automatic"
+msgstr ""
+
+#: framework/_language.php:935 framework/_language.php:939
+msgid "Other"
+msgstr ""
+
+#: framework/_language.php:936 framework/_language.php:937
+msgid "Petrol"
+msgstr ""
+
+#: framework/_language.php:938
+msgid "Diesel"
+msgstr ""
+
+#: framework/_language.php:940
+msgid "Engine Size"
+msgstr ""
+
+#: framework/_language.php:942
+msgid "New Car"
+msgstr ""
+
+#: framework/_language.php:943
+msgid "Nearly New Car"
+msgstr ""
+
+#: framework/_language.php:944
+msgid "Used Car"
+msgstr ""
+
+#: framework/_language.php:945
+msgid "&nbsp;"
+msgstr ""
+
+#: framework/_language.php:946
+msgid "City Car"
+msgstr ""
+
+#: framework/_language.php:947
+msgid "Sedan"
+msgstr ""
+
+#: framework/_language.php:948
+msgid "coupe"
+msgstr ""
+
+#: framework/_language.php:949
+msgid "Trucks"
+msgstr ""
+
+#: framework/_language.php:950
+msgid "Hatchback"
+msgstr ""
+
+#: framework/_language.php:951
+msgid "Estate"
+msgstr ""
+
+#: framework/_language.php:952
+msgid "Roadster"
+msgstr ""
+
+#: framework/_language.php:953
+msgid "SUV"
+msgstr ""
+
+#: framework/_language.php:954
+msgid "MPV"
+msgstr ""
+
+#: framework/_language.php:955 framework/_language.php:988
+#: framework/_language.php:989 framework/_language.php:990
+#: framework/_language.php:991 framework/_language.php:992
+msgid " "
+msgstr ""
+
+#: framework/_language.php:956
+msgid "Cabrio"
+msgstr ""
+
+#: framework/_language.php:960
+msgid "Chat Invitation Sent"
+msgstr ""
+
+#: framework/_language.php:961
+msgid "has sent you a gift."
+msgstr ""
+
+#: framework/_language.php:962
+msgid "You've received a new gift!"
+msgstr ""
+
+#: framework/_language.php:963
+msgid "Your gift has been sent!"
+msgstr ""
+
+#: framework/_language.php:964
+msgid "Send a free gift!"
+msgstr ""
+
+#: framework/_language.php:965
+msgid ""
+"Making the first move can often be difficult so why not send a free gift "
+"instead!"
+msgstr ""
+
+#: framework/_language.php:966
+msgid "Send Gift"
+msgstr ""
+
+#: framework/_language.php:967
+msgid "Invite Member to Chat"
+msgstr ""
+
+#: framework/_language.php:968 framework/_language.php:972
+msgid "Meet me in the chatroom!"
+msgstr ""
+
+#: framework/_language.php:969
+msgid "We will send a chat request to this user to meet you in the chat room."
+msgstr ""
+
+#: framework/_language.php:970
+msgid "Send Chat Request"
+msgstr ""
+
+#: framework/_language.php:971
+msgid "Chat Invitation"
+msgstr ""
+
+#: framework/_language.php:973
+msgid "would like to chat with you."
+msgstr ""
+
+#: framework/_language.php:974
+msgid "Go To Chatroom"
+msgstr ""
+
+#: framework/_language.php:975
+msgid "Gender"
+msgstr ""
+
+#: framework/_language.php:976
+msgid "Age"
+msgstr ""
+
+#: framework/_language.php:979
+msgid "Distance"
+msgstr ""
+
+#: framework/_language.php:981
+msgid "Online Now"
+msgstr ""
+
+#: framework/_language.php:982
+msgid "Offline"
+msgstr ""
+
+#: framework/_language.php:983
+msgid "Invite Chat"
+msgstr ""
+
+#: framework/_language.php:984
+msgid "Male"
+msgstr ""
+
+#: framework/_language.php:985
+msgid "Female"
+msgstr ""
+
+#: framework/_language.php:986
+msgid "Couple"
+msgstr ""
+
+#: framework/_language.php:987
+msgid "Group"
+msgstr ""
+
+#: framework/_language.php:993
+msgid "Looking For"
+msgstr ""
+
+#: framework/_language.php:994
+msgid "I'm a"
+msgstr ""
+
+#: framework/_language.php:998
+msgid "License"
+msgstr ""
+
+#: framework/_language.php:999
+msgid "File Size (MB)"
+msgstr ""
+
+#: framework/_language.php:1000
+msgid "Version"
+msgstr ""
+
+#: framework/_language.php:1001
+msgid "Date Released"
+msgstr ""
+
+#: framework/_language.php:1002
+msgid "Operating System"
+msgstr ""
+
+#: framework/_language.php:1003
+msgid "Pay to download"
+msgstr ""
+
+#: framework/_language.php:1005
+msgid "Release Date"
+msgstr ""
+
+#: framework/_language.php:1007
+msgid "Link to download"
+msgstr ""
+
+#: framework/_language.php:1012 framework/_language.php:1037
+msgid "User Feedback"
+msgstr ""
+
+#: framework/_language.php:1015
+msgid "read more"
+msgstr ""
+
+#: framework/_language.php:1016
+msgid "read less"
+msgstr ""
+
+#: framework/_language.php:1017
+msgid "Trust Factor"
+msgstr ""
+
+#: framework/_language.php:1018
+msgid "Feedback Deleted"
+msgstr ""
+
+#: framework/_language.php:1019
+msgid "Feedback Added Successfully"
+msgstr ""
+
+#: framework/_language.php:1020
+msgid "Feedback Found"
+msgstr ""
+
+#: framework/_language.php:1021
+msgid "Delete Feedback"
+msgstr ""
+
+#: framework/_language.php:1022
+msgid "Older"
+msgstr ""
+
+#: framework/_language.php:1023
+msgid "Newer"
+msgstr ""
+
+#: framework/_language.php:1024
+msgid "No Feedback Found"
+msgstr ""
+
+#: framework/_language.php:1025
+msgid ""
+"To add feedback for a listing view the listing and click on the leave "
+"feedback button."
+msgstr ""
+
+#: framework/_language.php:1026
+msgid "Complete the fields below to leave feedback for this listing and user."
+msgstr ""
+
+#: framework/_language.php:1027
+msgid "Feedback has already been left for this item"
+msgstr ""
+
+#: framework/_language.php:1028
+msgid "You can only leave 1 feedback per listing."
+msgstr ""
+
+#: framework/_language.php:1029
+msgid "Feedback Title"
+msgstr ""
+
+#: framework/_language.php:1030
+msgid "Feedback Description"
+msgstr ""
+
+#: framework/_language.php:1031
+msgid "My Rating"
+msgstr ""
+
+#: framework/_language.php:1032
+msgid "Submit Feedback"
+msgstr ""
+
+#: framework/_language.php:1033
+msgid "No Feedback Received"
+msgstr ""
+
+#: framework/_language.php:1035
+msgid "Purchased"
+msgstr ""
+
+#: framework/_language.php:1036
+msgid "My Feedback"
+msgstr ""
+
+#: framework/_language.php:1038
+msgid "<i class='fa fa-star'></i> Leave Feedback"
+msgstr ""
+
+#: framework/_language.php:1039
+msgid "Live Feedback"
+msgstr ""
+
+#: framework/_language.php:1040
+msgid "Awaiting Approval"
+msgstr ""
+
+#: framework/_language.php:1041
+msgid "Removed by User"
+msgstr ""
+
+#: framework/_language.php:1042
+msgid "User Rating"
+msgstr ""
+
+#: framework/_language.php:1046
+msgid "Awaiting Work Done"
+msgstr ""
+
+#: framework/_language.php:1047
+msgid "View Listing"
+msgstr ""
+
+#: framework/_language.php:1048
+msgid "View Progress"
+msgstr ""
+
+#: framework/_language.php:1049
+msgid "Invoice"
+msgstr ""
+
+#: framework/_language.php:1051
+msgid "Release Funds"
+msgstr ""
+
+#: framework/_language.php:1052
+msgid "In Progress"
+msgstr ""
+
+#: framework/_language.php:1053 framework/_language.php:1060
+msgid "Funds Released"
+msgstr ""
+
+#: framework/_language.php:1055
+msgid "Completed"
+msgstr ""
+
+#: framework/_language.php:1056
+msgid ""
+"If this job has been completed tick this box so the user can release your "
+"funds."
+msgstr ""
+
+#: framework/_language.php:1057
+msgid "Job Done?"
+msgstr ""
+
+#: framework/_language.php:1059
+msgid "Workflow"
+msgstr ""
+
+#: framework/_language.php:1061
+msgid "New Order Placed"
+msgstr ""
+
+#: framework/_language.php:1062
+msgid "has purchased your job listing below;"
+msgstr ""
+
+#: framework/_language.php:1063
+msgid "View Listing Purchased"
+msgstr ""
+
+#: framework/_language.php:1064
+msgid "Please keep me updated with any progress."
+msgstr ""
+
+#: framework/_language.php:1065
+msgid "Thank You."
+msgstr ""
+
+#: framework/_language.php:1066
+msgid "I can.."
+msgstr ""
+
+#: framework/_language.php:1067
+msgid "Add New Add-on"
+msgstr ""
+
+#: framework/_language.php:1071
+msgid "Will deliver in"
+msgstr ""
+
+#: framework/_language.php:1074
+msgid "Total Sales"
+msgstr ""
+
+#: framework/_language.php:1076
+msgid "This listing has already been purchased and is no longer available."
+msgstr ""
+
+#: framework/_language.php:1077
+msgid "remove extras"
+msgstr ""
+
+#: framework/_language.php:1078
+msgid "Delivery Time"
+msgstr ""
+
+#: framework/_language.php:1079
+msgid "When will you deliver the finished work to the client?"
+msgstr ""
+
+#: framework/_language.php:1081
+msgid "Always available"
+msgstr ""
+
+#: framework/_language.php:1082
+msgid "I can only do this job once."
+msgstr ""
+
+#: framework/_language.php:1083
+msgid "My Completed Jobs"
+msgstr ""
+
+#: framework/_language.php:1084
+msgid "Buyer Feedback"
+msgstr ""
+
+#: framework/_language.php:1085
+msgid "My Jobs"
+msgstr ""
+
+#: framework/_language.php:1086
+msgid "Here you can view jobs ordered and completed."
+msgstr ""
+
+#: framework/_language.php:1087
+msgid "View Attachment"
+msgstr ""
+
+#: framework/_language.php:1088
+msgid "Get more with Add-ons"
+msgstr ""
+
+#: framework/_language.php:1089
+msgid "Members"
+msgstr ""
+
+#: framework/_language.php:1090
+msgid "Micro Jobs"
+msgstr ""
+
+#: framework/_language.php:1091
+msgid "Workflow Updated"
+msgstr ""
+
+#: framework/_language.php:1092
+msgid "You have recieved a new response"
+msgstr ""
+
+#: framework/_language.php:1093
+msgid "Click Here"
+msgstr ""
+
+#: framework/_language.php:1094
+msgid "Related Jobs"
+msgstr ""
+
+#: framework/_language.php:1100
+msgid "Overall"
+msgstr ""
+
+#: framework/_language.php:1104
+msgid "Latest Listings"
+msgstr ""
+
+#: framework/_language.php:1106
+msgid "Contact Us"
+msgstr ""
+
+#: framework/_language.php:1107
+msgid "Website Navigation"
+msgstr ""
+
+#: framework/_language.php:1111
+msgid "Advert"
+msgstr ""
+
+#: framework/_language.php:1112
+msgid "additional contact options"
+msgstr ""
+
+#: framework/_language.php:1113
+msgid "Private Message"
+msgstr ""
+
+#: framework/class/class_admin.php:437
+msgid "Oops! You do not have sufficient permissions to access this page."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Responsive Directory Theme"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.premiumpress.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Theme Developed By <a href='http://www.premiumpress.com'>PremiumPress</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mark Fail - PremiumPress"
+msgstr ""

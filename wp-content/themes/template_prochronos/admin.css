@@ -1,0 +1,9 @@
+.registerContainer { width: 100%; height: 100vh; display: table; text-align: center; background: #F1F1F1; }
+#login { display: inline-block; margin: 0 auto; max-width: 500px; text-align: center; vertical-align: middle; width: 500px; height: 100vh; }
+.loginInner { display: table-cell; vertical-align: middle; width: 100%; height: auto; }
+.message { width: 100%; padding: 10px 15px; position: relative; background: #fff; margin-bottom: 20px; color: #4b4b4b; text-align: left; }
+.message:after { width: 4px; height: 100%; content: ''; position: absolute; left: -5px; top: 0; background: #00a0d2; }
+#backtoblog a { color: #4b4b4b; }
+.loginInner h1 a { color: #4b4b4b; }
+#backtoblog { text-align: left; }
+.loginMid { width: 100%; vertical-align: middle; display: table; height: 100vh; }

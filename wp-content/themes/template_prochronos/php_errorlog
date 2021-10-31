@@ -1,0 +1,3 @@
+[23-Nov-2017 01:24:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/prochronos/public_html/wp-content/themes/template_prochronos/request.php on line 9
+[23-Nov-2017 01:25:18 CST6CDT] PHP Parse error:  syntax error, unexpected '!' in /home/prochronos/public_html/wp-content/themes/template_prochronos/request.php on line 24
+[23-Nov-2017 01:25:47 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/prochronos/public_html/wp-content/themes/template_prochronos/request.php on line 24

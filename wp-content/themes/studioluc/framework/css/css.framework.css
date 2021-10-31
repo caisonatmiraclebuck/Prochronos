@@ -1,0 +1,66 @@
+
+/* REMOVE ROUNDED CORNERS */ 
+* {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+} 
+
+a { color:#444; }
+
+/*------------------------------------------------------*/
+/* BODY
+/*------------------------------------------------------*/
+
+body { background: #ddd; }
+
+.page-wrapper {padding:10px; padding-top:0px; background:#fff;   -webkit-box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.05); box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.05); }
+
+/*------------------------------------------------------*/
+/* LOGO
+/*------------------------------------------------------*/
+
+#core_logo .main, #core_logo .submain { color:#222; }
+
+/*------------------------------------------------------*/
+/* TOP NAVIGATION
+/*------------------------------------------------------*/
+
+#core_header_navigation { border-bottom: 1px solid #ddd; }
+
+/*------------------------------------------------------*/
+/*  MAIN MENU
+/*------------------------------------------------------*/
+
+#core_menu_wrapper { 
+background-color: #f1f1f1;
+    border-bottom: 1px solid #666;
+    border-color: #e5e5e5;
+}
+#core_menu_wrapper .nav > li { border-right: 1px solid white; border-color: rgba(0, 0, 0, 0.1); }
+#core_menu_wrapper .nav > li > a { font-weight:700; text-transform:uppercase;  }
+
+/*------------------------------------------------------*/
+/* BODY
+/*------------------------------------------------------*/
+
+#core_inner_wrap { margin-left:-15px; margin-right:-15px; }
+
+/*------------------------------------------------------*/
+/* SEARCH RESULTS
+/*------------------------------------------------------*/
+
+.search .core_middle_wrap, .archive .core_middle_wrap {   padding: 20px;  border: 1px solid #ddd; margin-bottom:20px; }
+._searchresultsblock h4 { border: 1px solid #ddd;  background: #efefef;  padding: 10px;}
+
+/*------------------------------------------------------*/
+/* PANELS
+/*------------------------------------------------------*/
+
+.panel-default { border-color: #ddd  }
+
+/*------------------------------------------------------*/
+/* BUTTONS
+/*------------------------------------------------------*/
+
+.btn-primary {    color: #fff;    background-color: #424242;    border-color: #424242; }

@@ -1,0 +1,855 @@
+
+ 
+.PT_Builder {
+ 
+ background: #fff;
+   border: 1px solid #ddd;
+    padding-bottom: 30px;
+ }
+ 
+ 
+.PT_Builder .button { padding: 4px 18px;    height: auto; box-shadow:0px !important;     border-radius: 0px;     border: 0px; }
+
+.PT_Builder .pt-main-actions  {     background: #fafafa;
+    border-bottom: 1px solid #ddd;
+    padding-top: 5px;
+    padding-bottom: 5px;}
+	
+.PT_Builder .pt-main-actions .pt-builder-start { float:left; margin-left:20px; }	
+.PT_Builder .pt-main-actions .button {  padding: 4px 8px; border:1px solid #ddd;  }
+.PT_Builder .pt-main-actions .button.button-primary { border:0px; border-bottom:2px solid #006799; }
+
+.pt-actions .fa { color:#fff; }
+
+
+
+.pt-collapsible .pt-add { float: left; }
+.pt-collapsible .pt-add, .pt-column-actions .pt-add-list {         margin-left: 10px !important;    margin-bottom: 10px !important; }
+.pt-add-list  { margin-left:0px !important; }
+	
+.classiceditor { padding: 4px 8px;    float: left;    margin-left: 5px;    margin-top: 5px;    margin-bottom: 0px; }
+ 
+/* ===========================================================================================
+1. GENERAL SETTINGS (GRID & CLEARFIX) --------------------------------------------------------
+============================================================================================== */
+
+.clearfix:before, .clearfix:after, .dl-horizontal dd:before, .dl-horizontal dd:after, .container:before, .container:after, .container-fluid:before, .container-fluid:after, .row:before, .row:after, .form-horizontal .form-group:before, .form-horizontal .form-group:after, .btn-toolbar:before, .btn-toolbar:after, .btn-group-vertical>.btn-group:before, .btn-group-vertical>.btn-group:after, .nav:before, .nav:after, .navbar:before, .navbar:after, .navbar-header:before, .navbar-header:after, .navbar-collapse:before, .navbar-collapse:after, .pager:before, .pager:after, .panel-body:before, .panel-body:after, .modal-footer:before, .modal-footer:after {
+    display: table;
+    content: " "
+}
+.clearfix:after, .dl-horizontal dd:after, .container:after, .container-fluid:after, .row:after, .form-horizontal .form-group:after, .btn-toolbar:after, .btn-group-vertical>.btn-group:after, .nav:after, .navbar:after, .navbar-header:after, .navbar-collapse:after, .pager:after, .panel-body:after, .modal-footer:after {
+    clear: both
+}
+.pt-column {
+ 
+}
+.pt-column .pt-actions {
+    text-align: center;
+}
+.span1, .span2, .span3, .span4, .span5, .span6, .span7, .span8, .span9, .span10, .span11, .span12 {
+    min-height: 100px;
+    float: left;
+}
+.span2, .span3, .span4, .span5, .span6, .span7, .span8, .span9, .span10, .span11 {
+    margin: 0 3px;
+}
+.span12 {
+    width: 99.8%;
+}
+.span11 {
+    width: 90.56666667%;
+}
+.span10 {
+    width: 82.3%;
+}
+.span9 {
+    width: 74%;
+}
+.span8 {
+    width: 65.67%;
+}
+.span7 {
+    width: 57.233333%;
+}
+.span6 {
+    width: 49%;
+}
+.span5 {
+    width: 40.566667%;
+}
+.span4 {
+    width: 32.33%;
+}
+.span3 {
+    width: 24%;
+}
+.span2 {
+    width: 15.67%;
+}
+.span1 {
+    width: 7.833%;
+    margin-right: 2px;
+}
+.span1:last-child {
+    margin-right: 0;
+}
+.span1 .pt-element .pt-actions {
+    text-align: left;
+}
+.span1 .pt-actions a {
+    padding: 2px 3px;
+}
+/* ===========================================================================================
+2. PT BUILDER --------------------------------------------------------------------------------
+============================================================================================== */
+
+#adminmenuback {
+    z-index: 39;
+}
+#adminmenuwrap {
+    z-index: 40;
+}
+/*TOP-BUTTONS*/
+
+.pt-main-actions {
+    text-align: right;
+    z-index: 38;
+}
+.pt-main-actions.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    display: block;
+    width: 100%;
+    padding: 20px;
+}
+.pt-main-actions a.button {
+    margin-right: 5px;
+	
+	
+}
+.pt-main-actions.fixed a.button:last-child {
+    margin-right: 40px;
+}
+.PT_Builder {
+    position: relative
+}
+.pt-loader-wrapper {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    display: none;
+}
+#pt-dialog, #pt-preview-dialog {
+    display: none;
+    font-family: 'Open Sans';
+}
+#pt-dialog input, #pt-dialog select, #pt-dialog textarea {
+    font-family: 'Open Sans';
+}
+.ui-dialog .ui-dialog-buttonpane button {
+    font-family: 'Open Sans';
+    color: #555;
+    border-color: #ccc;
+    background: #f7f7f7;
+    -webkit-box-shadow: inset 0 1px 0 #fff, 0 1px 0 rgba(0, 0, 0, .08);
+    box-shadow: inset 0 1px 0 #fff, 0 1px 0 rgba(0, 0, 0, .08);
+    vertical-align: top;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 10px 5px;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    white-space: nowrap;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.ui-dialog .ui-dialog-buttonpane button:hover, .ui-dialog .ui-dialog-buttonpane button:focus, .ui-dialog .ui-dialog-buttonpane button:active {
+    background: #fafafa;
+    border-color: #999;
+    color: #222;
+    outline: 0;
+    box-shadow: none;
+}
+.ui-button-text-only .ui-button-text {
+    padding: 0;
+}
+/*CONTENT*/
+
+.pt-builder-content {
+    margin: 20px 0;
+}
+/*SECTION*/
+
+.pt-section, .pt-row {
+    margin-bottom: 20px;
+	 
+}
+.pt-section {
+	display: inline-block;
+	width: 98%;
+    
+    background: #cdcdcd url(../../images/admin/layout/s1.jpg) repeat-y;
+    border: 1px solid #fff;
+ 
+}
+.pt-section-content {
+    min-height: 0px;
+    margin-top: 0px;
+ 
+}
+/*ROW*/
+
+.pt-row {
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+ 	background: #f15822 url(../../images/admin/layout/s2.jpg) repeat-y;
+}
+.pt-row-content {
+    margin: 15px;
+}
+.pt-actions .pt-element-name {
+    float: left;
+    margin-top: 13px;
+    margin-left: 5px;
+    color: #4AA051;
+    font-weight: bold;
+}
+.pt-actions a, .pt-layout-holder {
+    display: inline-block;
+}
+.pt-actions a.pt-custom-layout {
+    font-size: 15px;
+    text-decoration: none;
+    float: left;
+   display:none;
+}
+.pt-actions a:focus, .pt-actions a:active {
+    outline: 0;
+}
+.pt-layout-holder {
+    float: left;
+}
+.pt-actions {
+ 
+    text-align: right;
+    height: 45px;
+    
+}
+ 
+.pt-row .pt-actions .pt-row-drag, .pt-actions .pt-section-drag {
+    float: left;
+}
+.pt-row .pt-actions {
+    margin: 0px;
+    padding: 0 20px;
+}
+.pt-column .pt-actions {
+    margin: 0;
+}
+.pt-builder-wrapper {
+    text-align: center;
+}
+  
+.pt-export:before {
+content: "\f0c7"; font: normal normal normal 14px/1 FontAwesome; margin-right:10px;
+}
+.pt-css:before {
+content: "\f0c4"; font: normal normal normal 14px/1 FontAwesome; margin-right:10px;
+}
+.pt-preview:before {
+content: "\f002"; font: normal normal normal 14px/1 FontAwesome; margin-right:10px;
+}
+
+.pt-template {     background: #F15822 !important; color: #fff !important; padding: 10px 40px !important; }
+.pt-template:before {
+content: "\f0ea"; font: normal normal normal 14px/1 FontAwesome; margin-right:10px;
+}
+ 
+.btn-add-action {     background: #F15822 !important; color: #fff !important; padding: 10px 40px !important; }
+.btn-add-action:before {
+content: "\f0f6"; font: normal normal normal 14px/1 FontAwesome; margin-right:10px;
+}
+
+
+ 
+ 
+.pt-actions a {
+    padding: 2px 4px;
+    font-size: 15px;
+    color: #aaaaaa;
+    margin-top: 11px;
+}
+.pt-actions a:hover {
+    color: #888888;
+}
+ 
+.pt-layout-box {
+    display: inline-block;
+    vertical-align: top;
+    float: left;
+    -webkit-transition: all 2s linear;
+    -o-transition: all 2s linear;
+    transition: all 2s linear;
+}
+.pt-layout-holder:hover .pt-layout-box {
+    display: inline-block;
+    -webkit-transition: all 2s linear;
+    -o-transition: all 2s linear;
+    transition: all 2s linear;
+}
+.pt-layout-box a {
+    padding: 2px 0px;
+}
+.pt-layout-box a:last-child {
+    padding-right: 2px;
+}
+.pt-layout-holder a, .pt-layout-box a {
+    vertical-align: top;
+}
+.pt-layout-holder a.pt-select-layout {
+    margin-top: 12px;
+    margin-left: 5px;
+}
+.pt-layout-box a:not(.pt-custom-layout) {
+    height: 18px;
+    width: 22px; text-align:center;
+}
+.pt-layout-box a img {
+    margin-top: 2px;
+    opacity: .5;
+}
+.pt-layout-box a img:hover {
+    opacity: 1;
+}
+.pt-element-title {
+    text-align: center; padding-top:5px;
+}
+/*COLUMNS*/
+
+.pt-column {
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+ 	background: rgba(0, 0, 0, 0.15);
+}
+.pt-column .pt-actions {
+    
+    padding: 3px 0 10px 0;
+    border-bottom: none;
+}
+.pt-column .pt-actions:last-child {
+    display: inline-block;
+    width: 100%;
+	   
+}
+.pt-column .pt-actions:last-child a { color: #666;    background: #fff; }
+.pt-column .pt-actions a {
+    color: #dddddd;
+	 
+}
+.pt-column .pt-actions a:hover {
+    color: #888888;
+}
+.pt-column .pt-column-actions .pt-edit {
+	display: inline-block;
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    bottom: -1px;
+    right: 29px;
+    z-index: 2;
+    background-color: #ffffff;
+    padding: 0;
+   color:#444;
+}
+.pt-column .pt-column-actions .pt-edit .fa { color:#444; }
+
+.pt-column .pt-column-actions:hover .pt-edit {
+	visibility: visible;
+	opacity: 1;
+    -webkit-transition: opacity .2s ease .2s;
+    -o-transition: opacity .2s ease .2s;
+    transition: opacity .2s ease .2s;
+}
+.pt-column .pt-column-actions .pt-edit:hover {
+    z-index: 3;
+}
+.pt-column .pt-column-actions .pt-edit {
+	display: block;
+    color: #aaaaaa;
+    margin-top: -1px;
+    background-color: #ffffff;
+    border: 1px solid #dfdfdf;
+    padding: 4px 7px;
+}
+.sortable-placeholder {
+    display: block;
+}
+.pt-column-content {
+    min-height: 20px;
+}
+.pt-column-content .pt-element {
+    position: relative;
+   background:#fff; box-shadow: 1px 1px 1px #000; margin-bottom:10px;
+    padding: 20px 0;
+	min-height:40px;
+    
+}
+.pt-column-content .pt-element:hover {
+    cursor: move;
+  
+}
+
+.pt-column-content .pt-actions a:first-child { background:#0085BA; }
+.pt-column-content .pt-actions a:first-child .fa { color:#fff; }
+
+.pt-column-content .pt-actions {
+     
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+    background-color: #ffffff;
+    padding: 0;
+ 
+}
+.pt-column-content .pt-actions .fa { color:#666; }
+.pt-column-content .pt-element:hover .pt-actions {
+    visibility: visible;
+    display: inline-block;
+    opacity: 1;
+    -webkit-transition: opacity .2s ease .2s;
+    -o-transition: opacity .2s ease .2s;
+    transition: opacity .2s ease .2s;
+}
+.pt-column-content .pt-actions:hover {
+    z-index: 3;
+}
+.pt-column-content .pt-actions a {
+    display: block;
+    color: #aaaaaa;
+    margin-top: 0px;
+    background-color: #ffffff;
+    border-left: 1px solid #dfdfdf;
+    padding: 4px 7px;
+}
+#poststuff .PT_Builder .pt-element-title h2 {
+    font-size: 16px;
+    color: #222;
+    margin: 0;
+    padding: 0;
+	font-weight:bold;
+}
+.sortable-placeholder {
+    float: left;
+}
+/*BUTTONS*/
+
+ 
+/* ===========================================================================================
+3. PT BUILDER MODAL --------------------------------------------------------------------------
+============================================================================================== */
+
+.ui-dialog {
+    border-color: #dfdfdf;
+    border-radius: 0;
+    padding: 0;
+}
+.ui-dialog .ui-dialog-titlebar {
+    border-radius: 0;
+    border: none;
+    border-bottom: 1px solid #dfdfdf;
+    background: #ffffff;
+    padding: 20px;
+}
+.ui-dialog .ui-dialog-titlebar-close {
+    right: 1.3em;
+    border: none;
+    background: #fff;
+}
+.ui-dialog .ui-dialog-titlebar-close:focus {
+    outline: 0;
+    border: none;
+}
+.ui-dialog .ui-dialog-titlebar .ui-dialog-title {
+    font-family: 'Open Sans';
+    color: #f15822;
+}
+.ui-dialog .ui-dialog-content {
+    padding: 0 1.5em;
+    position: relative;
+    z-index: 5;
+}
+.ui-dialog-content .pt-elements-list-filter {
+    float: left;
+    width: 20%;
+    display: block;
+    margin-top: 10px;
+    margin-left: -21px;
+ 
+}
+.ui-dialog-content .pt-elements-list-filter li a {
+    font-family: 'Open Sans';
+    padding: 5px 0 5px 20px;
+    display: block;
+    text-decoration: none;
+    color: #f15822;
+    border: 1px solid transparent;
+    border-left: none;
+    border-right: none;
+}
+.ui-dialog-content .pt-elements-list-filter li a:hover {
+    color: #222;
+}
+.ui-dialog-content .pt-elements-list-filter li a:focus, .ui-dialog-content .pt-elements-list-filter li a:active {
+    outline: 0;
+}
+.ui-dialog-content .pt-elements-list-filter li a.active {
+    background: #F5F5F5;
+    padding: 5px 0 5px 20px;
+    display: block;
+    text-decoration: none;
+    border: 1px solid #dfdfdf;
+    border-left: none;
+    border-right: none;
+}
+.ui-dialog-content .pt-elements-list {
+    float: left;
+    width: 47%;
+    display: inline-block;
+    margin-left: -1px;
+    z-index: -1;
+	min-height:350px;
+}
+.pt-elements-list {
+    padding: 10px 20px 30px 20px;
+    background: #F5F5F5;
+    border: 1px solid #dfdfdf;
+    border-top: none;
+    border-bottom: none;
+    overflow-y: hidden; 
+}
+.pt-elements-list a {
+    float: left;
+    text-decoration: none;
+}
+.pt-elements-list a:focus, .pt-elements-list a:active {
+    outline: 0;
+}
+.pt-element-item {
+    width: 105px;
+    min-height: 55px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #dfdfdf;
+    background-color: #fff;
+    margin: 15px 0 0 15px;
+    padding: 12px 0 0 0;
+}
+.pt-element-item a p {
+    margin-top: 5px;
+}
+.pt-element-text {
+    width: 100px;
+}
+.pt-element-description {
+    padding-top: 20px;
+    display: inline-block;
+    float: right;
+    width: 28%;
+    font-size: 11px;
+    color: #8f8f8f;
+    font-family: 'Open Sans';
+}
+.pt-element-description a {
+    color: #8f8f8f;
+    font-family: 'Open Sans';
+}
+/* ===========================================================================================
+4. PT BUILDER ELEMENT MODAL ------------------------------------------------------------------
+============================================================================================== */
+
+.pt-option-container {
+    display: inline-block;
+    width: 49%;
+    margin: 10px 0;
+    vertical-align: top;
+}
+.pt-full-width {
+    width: 100%;
+}
+.pt-option-container > div:not(.wp-picker-container):not(.pt-iconpicker-list) {
+    display: block;
+}
+.pt-option-container label, .pt-option-container small {
+    font-family: 'Open Sans';
+}
+.pt-element-description label, .pt-option-container label {
+    font-family: 'Open Sans';
+    font-size: 13px;
+    display: block;
+    color: #222222;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.pt-option-container small {
+    font-size: 11px;
+    color: #8f8f8f;
+    display: block;
+}
+.pt-radio-group label {
+    display: inline-block;
+    margin-right: 5px;
+}
+.pt-radio-group input {
+    margin-right: 0;
+}
+/*COLOR-PICKER*/
+
+.wp-picker-container .wp-color-result {
+    border-radius: 0;
+    height: 30px;
+    padding-left: 35px;
+    margin-right: -1px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.wp-picker-container .wp-color-result:focus, .wp-picker-container .wp-color-result:hover {
+    outline: none;
+    border-color: #dfdfdf;
+}
+.wp-picker-container .wp-color-result:after {
+    background: #ffffff;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    border-left: 1px solid #ccc;
+    color: #555;
+    content: attr(title);
+    display: block;
+    font-size: 11px;
+    line-height: 30px;
+    padding: 0 26px;
+    position: relative;
+    right: 0;
+    text-align: center;
+    top: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.wp-picker-holder {
+    position: absolute;
+    z-index: 1;
+}
+.wp-picker-container .wp-picker-input-wrap input.pt-option {
+    height: 32px;
+    box-shadow: none;
+}
+.wp-picker-container .wp-picker-input-wrap input.wp-picker-clear {
+    height: 32px;
+    box-shadow: none;
+    margin-left: -1px;
+    border-radius: 0;
+}
+.pt-option-container input.pt-option, .pt-option-container select.pt-option {
+    width: 90%;
+    box-shadow: none;
+}
+.pt-option-container input[type="checkbox"] {
+    width: 90%;
+    height: 32px;
+    box-shadow: none;
+    margin-top: 3px;
+}
+.pt-checkbox-option {
+    display: none;
+    border: 1px solid #dfdfdf;
+    padding: 6px 10px;
+    font-size: 13px;
+    text-decoration: none;
+    width: 90%;
+}
+.pt-checkbox-option:focus, .pt-checkbox-option:active {
+    outline: none;
+}
+.pt-checkbox-option.active {
+    display: block;
+}
+input.border-radius {
+    border-color: #dfdfdf;
+}
+.pt-option {
+    border: 1px solid #dfdfdf;
+}
+.pt-option-container p {
+    margin: 0;
+}
+/*ICON-LIST*/
+
+.pt-option-container .pt-iconpicker-list {
+    display: none;
+    width: 100%;
+    padding: 1px 0px 1px 7px;
+    margin: 40px 0px 0 0;
+    background: rgb(245, 245, 245);
+}
+.pt-option-container .pt-iconpicker-list .pt-icons li {
+    display: inline-block;
+    padding: 0 5px;
+    width: 12px;
+    text-align: center;
+}
+.pt-option-container .pt-iconpicker-list .pt-icons li.active span {
+    color: #dfdfdf;
+}
+/*ADD-IMAGE*/
+
+.pt-image-wrapper {
+    margin: 10px 3px 10px 0;
+}
+.pt-image-wrapper img {
+    width: 90px;
+    height: 70px;
+    padding: 2px;
+    border: 1px solid #dfdfdf;
+}
+/*TEXTAREA*/
+
+.pt-raw-textarea {
+    width: 95%;
+    height: 100px;
+    box-shadow: none;
+    border-color: #dfdfdf;
+}
+/*ADD-IMAGE*/
+
+.pt-image-wrapper {
+    position: relative;
+    display: inline-block;
+}
+.pt-image-wrapper a {
+    display: inline-block;
+    position: absolute;
+    top: 1px;
+    left: 77px;
+    color: #686868;
+    padding: 0 3px;
+    background-color: #fff;
+}
+.pt-image-wrapper a:hover {
+    color: #454545;
+}
+/*FOUR-WRAPPER*/
+
+.pt-option-container .pt-four-wrapper label {
+    display: inline-block;
+}
+.pt-option-container .pt-four-wrapper input {
+    width: 12%;
+    box-shadow: none;
+    border-color: #dfdfdf;
+}
+/*FOOTER*/
+
+.ui-dialog .ui-dialog-buttonpane {
+    background-color: #f3f3f3;
+    padding: 1em 1em .5em .4em;
+    border: none;
+}
+.ui-resizable-handle.ui-resizable-s {
+    background-color: #f3f3f3;
+}
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+    float: none;
+    text-align: center;
+}
+/* ===========================================================================================
+5. PT ADD TEMPLATE MODAL ---------------------------------------------------------------------
+============================================================================================== */
+
+.pt-templates-wrap {
+    margin: 30px 0;
+}
+.pt-templates-wrap .pt-save-template-box input {
+    box-shadow: none;
+    border-color: #dfdfdf;
+    height: 27px;
+}
+.pt-templates-wrap .pt-templates-list li a.pt-add-template {
+    margin-right: 10px;
+}
+/* ===========================================================================================
+5. PT CSS EDITOR MODAL -----------------------------------------------------------------------
+============================================================================================== */
+
+#pt-css-editor {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.pt-templates-wrap small {
+	display: block;
+	margin: 10px 0;
+}
+
+/* ===========================================================================================
+6. PT-BUILDER BUTTON  ------------------------------------------------------------------------
+============================================================================================== */
+.wp-core-ui .button.pt-builder-start, .wp-core-ui .button.pt-builder-start:hover {
+ 
+	box-shadow: none;
+	margin-bottom: 10px;
+	color: #fff;
+background: #F15822;
+    border-color: #F15822; 
+	
+	
+}
+.wp-core-ui .button.pt-builder-start img {
+	height: 26px;
+	width: 19px;
+	margin: 0 5px 0 -10px;
+	padding: 0 6px 0 7px;
+	background: #fff;
+	border-right: 1px solid #c72601;
+	border-top-left-radius: 2px;
+	border-bottom-left-radius: 2px;
+}
+.wp-core-ui .button.pt-builder-start:hover {
+	background-color: #fff;
+	color: #c72601;
+	-webkit-transition-property: border,background,color;
+	transition-property: border,background,color;
+	-webkit-transition-duration: .2s;
+	transition-duration: .2s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-timing-function: ease-in-out;
+}
+
+
+.btn-add-action { float:none; }
+.pt-add-newaction-row { margin-bottom: 10px !important; float:left; }
+.pt-add-newaction-row:before {
+content: "\f0ae"; font: normal normal normal 14px/1 FontAwesome; margin-right:10px;
+}
+
+ 
+.pt-add-list:before {
+content: "\f005"; font: normal normal normal 14px/1 FontAwesome; margin-right:10px;
+}

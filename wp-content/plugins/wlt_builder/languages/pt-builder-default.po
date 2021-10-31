@@ -1,0 +1,843 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PT Page Builder\n"
+"POT-Creation-Date: 2014-09-25 10:21+0100\n"
+"PO-Revision-Date: 2014-09-25 10:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: pebas <pebasdesign@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\gorising\\wp-content\\plugins\\pt-"
+"builder\n"
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/pt-builder.php:246
+msgid ""
+"Save current page layout as a template by inputing template name and "
+"clicking on the Save button."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/pt-builder.php:248
+msgid "Save"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/pt-builder.php:250
+msgid ""
+"Select one of the previously saved templates to append to the current layout."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/fields/PT_Checkbox.php:29
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:125
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:136
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:92
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:110
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:121
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:140
+msgid "No"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/fields/PT_Checkbox.php:30
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:124
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:135
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:91
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:109
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:120
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:141
+msgid "Yes"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/fields/PT_Four.php:34
+msgid "Top: "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/fields/PT_Four.php:36
+msgid "Right: "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/fields/PT_Four.php:38
+msgid "Bottom: "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/fields/PT_Four.php:40
+msgid "Left: "
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/fields/PT_Iconpicker.php:37
+msgid "Select Icon"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/fields/PT_Iconpicker.php:39
+msgid "Clear"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/fields/PT_Image.php:41
+msgid "Select Image"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/fields/PT_Images.php:45
+msgid "Select Images"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/includes/admin/abstract/PT_Shortcode.php:55
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Column.php:22
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Row.php:21
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:49
+msgid "Edit Element"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/includes/admin/abstract/PT_Shortcode.php:56
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Row.php:33
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:50
+msgid "Clone Element"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/includes/admin/abstract/PT_Shortcode.php:57
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Row.php:34
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:51
+msgid "Delete Element"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Accordion.php:60
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:73
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:92
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Dropcap.php:32
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:36
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Iframe.php:33
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:73
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Message.php:36
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Picture.php:43
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:37
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Sidebar.php:45
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:73
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:75
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Text.php:30
+msgid "Element Name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Accordion.php:61
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:74
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:93
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Dropcap.php:33
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:37
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Iframe.php:34
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:74
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Message.php:37
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Picture.php:44
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:38
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Sidebar.php:46
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:74
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:76
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Text.php:31
+msgid "Input custom element name for easy recognition."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Accordion.php:67
+msgid "Accordion Titles"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Accordion.php:68
+msgid "Add accordion title, one title in each row."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Accordion.php:74
+msgid "Accordion content"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Accordion.php:75
+msgid ""
+"Add accordion content. Follow the order of the titles and separate with /"
+"next/"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Accordion.php:81
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:182
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:142
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Dropcap.php:46
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:84
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Iframe.php:58
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:127
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Message.php:63
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Picture.php:57
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:77
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Sidebar.php:60
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:186
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:118
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Text.php:44
+msgid "Extra Class"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Accordion.php:82
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:183
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:143
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Dropcap.php:47
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:85
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Iframe.php:59
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:128
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Message.php:64
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Picture.php:58
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:78
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Sidebar.php:61
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:187
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:119
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Text.php:45
+msgid "Input extra class for the element."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:80
+msgid "Button Background Color"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:81
+msgid "Select button background color."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:87
+msgid "Button Background Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:88
+msgid "Select button background color. on hover"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:94
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:65
+msgid "Font Color"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:95
+msgid "Select button font color."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:101
+msgid "Font Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:102
+msgid "Select button font color on hover."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:108
+msgid "Border Color"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:109
+msgid "Select border color."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:115
+msgid "Border Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:116
+msgid "Select border color on hover."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:122
+msgid "Border Radius"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:123
+msgid "Input border radius."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:130
+msgid "Border Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:131
+msgid "Input border width in px or em."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:137
+msgid "Link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:138
+msgid "Input button link."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:144
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Text.php:37
+msgid "Text"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:145
+msgid "Input button text."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:151
+msgid "Size"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:152
+msgid "Select button size."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:155
+msgid "Default"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:156
+msgid "Small"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:157
+msgid "Meduim"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:158
+msgid "Large"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:164
+msgid "Icon"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:165
+msgid "Select button icon."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:171
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:161
+msgid "Target Window"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:172
+msgid "Select window where to open."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:175
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:165
+msgid "Same Window"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Button.php:176
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:166
+msgid "New Window"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Column.php:21
+msgid "Apend Element"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Column.php:37
+msgid "Column Padding"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Column.php:38
+msgid "Column with padding or without padding."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:99
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:80
+msgid "Select Imagess"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:100
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:81
+msgid "Select images you want to add to the slider."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:106
+msgid "Add Content"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:107
+msgid "Separate content for each slide with /next/."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:113
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:98
+msgid "Delay"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:114
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:99
+msgid ""
+"Set delay between the slides in miliseconds. If the value is 0 than it will "
+"not autoplay."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:120
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:105
+msgid "Show Navigation"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:121
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:106
+msgid "Show or hide navigation bullets."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:131
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:116
+msgid "Show Arrows"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Content_Slider.php:132
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:117
+msgid "Show or hide navigation arrows."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Dropcap.php:39
+msgid "Dropcap Text"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Dropcap.php:40
+msgid "Input dropcap text."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:43
+msgid "Heading"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:44
+msgid "Select heading."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:47
+msgid "H1"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:48
+msgid "H2"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:49
+msgid "H3"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:50
+msgid "H4"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:51
+msgid "H5"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:52
+msgid "H6"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:58
+msgid "Heading Text"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:59
+msgid "Input text for the heading."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:66
+msgid "Select heading font color."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:72
+msgid "Text Align"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:73
+msgid "Select text align."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:76
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:104
+msgid "Left"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:77
+msgid "Center"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Heading.php:78
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:105
+msgid "Right"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Iframe.php:40
+msgid "Link To Embed"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Iframe.php:41
+msgid "Input link which will be embeded."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Iframe.php:47
+msgid "Aspect Ratio"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Iframe.php:48
+msgid "Select iframe aspect ratio."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Iframe.php:51
+msgid "4:3"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Iframe.php:52
+msgid "16:9"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:87
+msgid "Show Captions"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Image_Slider.php:88
+msgid "Show or hide image captions."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Message.php:43
+msgid "Message Type"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Message.php:44
+msgid "Select type of the message."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Message.php:47
+msgid "Success"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Message.php:48
+msgid "Info"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Message.php:49
+msgid "Warning"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Message.php:50
+msgid "Danger"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Message.php:56
+msgid "Message Content"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Message.php:57
+msgid "Input message content."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Picture.php:50
+msgid "Image"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Picture.php:51
+msgid "Select image you want to add."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:44
+msgid "Progress Bar Color"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:45
+msgid "Select progressbar color."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:51
+msgid "Progress Bar Style"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:52
+msgid "Select progressbar style."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:55
+msgid "No Stripes"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:56
+msgid "Stripes"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:57
+msgid "Active Stripes"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:63
+msgid "Progress Bar Label"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:64
+msgid "Input label for the progressbar."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:70
+msgid "Progressbar Value"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Progress_Bar.php:71
+msgid "Input progress bar value in percentages."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Row.php:6
+msgid "Row"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Row.php:20
+msgid "Drag Row"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Row.php:31
+msgid "Build Custom Layout"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Row.php:35
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:52
+msgid "Toggle Display Of Element"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Row.php:48
+msgid "Row Name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Row.php:49
+msgid "Input custom row name for easy recognition."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:12
+msgid "Section"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:47
+msgid "Drag Section"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:82
+msgid "Section Name"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:83
+msgid "Input custom section name for easy recognition."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:89
+msgid "Section Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:90
+msgid "Select width of the section."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:93
+msgid "Boxed"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:94
+msgid "Full Width"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:100
+msgid "Section Background Color"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:101
+msgid "Set background color for the section."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:107
+msgid "Section Background Image"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:108
+msgid "Set background image for the section."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:114
+msgid "Section Padding"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:115
+msgid "Input section padding."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:121
+msgid "Section Margin"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:122
+msgid "Input section margin."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:128
+msgid "Section Extra Class"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Section.php:129
+msgid "Input section extra class for additional styling."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Sidebar.php:52
+msgid "Sidebar"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Sidebar.php:53
+msgid "Select which sidebar you want to add."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:80
+msgid "Facebook Link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:81
+msgid "Input Facebook link."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:87
+msgid "Twitter Link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:88
+msgid "Input Twitter link."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:94
+msgid "Google+ Link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:95
+msgid "Input Google+ link."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:101
+msgid "Pinterest Link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:102
+msgid "Input Pinterest link."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:108
+msgid "Linkedin Link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:109
+msgid "Input Linkedin link."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:115
+msgid "Tumblr Link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:116
+msgid "Input Tumblr link."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:122
+msgid "Vimeo Link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:123
+msgid "Input Vimeo link."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:129
+msgid "Youtube Link"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:130
+msgid "Input Youtube link."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:136
+msgid "Square Icons"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:137
+msgid "Select if the icons should be square."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:147
+msgid "Icon Size"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:148
+msgid "Select icon size."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:151
+msgid "Normal"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:152
+msgid "Normal x2"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:153
+msgid "Normal x3"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:154
+msgid "Normal x4"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:155
+msgid "Normal x5"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:162
+msgid "Select in which window should link be opened."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:172
+msgid "Icon Color"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:173
+msgid "Select icon color."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:179
+msgid "Icon Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Social.php:180
+msgid "Select icon color on hover."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:82
+msgid "Tabs Titles"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:83
+msgid "Add titles of the tabs, one title in each row."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:89
+msgid "Type of tabs"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:90
+msgid "Select what kind of tabs you want."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:93
+msgid "Horizontal"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:94
+msgid "Vertical"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:100
+msgid "Vertical Tabs Position"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:101
+msgid "Select the position of the vertical tabs."
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:111
+msgid "Tabs content"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Tabs.php:112
+msgid ""
+"Add tabs content. Follow the order of the titles and separate with /next/"
+msgstr ""
+
+#: C:\wamp\www\gorising\wp-content\plugins\pt-builder/shortcodes/PT_Text.php:38
+msgid "Write the text here."
+msgstr ""
